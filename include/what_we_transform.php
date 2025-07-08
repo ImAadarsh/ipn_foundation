@@ -52,7 +52,7 @@
                                  </svg>
                               </span>
                               <div class="border-right"></div>
-                              <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Automotive<br> and mobility</h5>
+                              <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Student <br> Empowerment</h5>
                            </div>
                         </div>
                         <div class="col-xl-3 col-lg-6 col-md-6">
@@ -69,7 +69,7 @@
                                  </svg>
                               </span>
                               <div class="border-right"></div>
-                              <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Energy &<br> natural resources</h5>
+                              <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">School <br> Transformation</h5>
                            </div>
                         </div>
                      </div>
@@ -85,7 +85,7 @@
                                        </svg>
                                     </span>
                                     <div class="border-right"></div>
-                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Banking and<br>capital markets</h5>
+                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Global Networking<br>& Chapters</h5>
                                  </div>
                               </div>
                               <div class="col-xl-4 col-lg-6 col-md-6">
@@ -99,7 +99,7 @@
                                        </svg>
                                     </span>
                                     <div class="border-right"></div>
-                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">AHealth care<br> and life insurance</h5>
+                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Events<br> & Conclaves/h5>
                                  </div>
                               </div>
                               <div class="col-xl-4 col-lg-6 col-md-6">
@@ -110,7 +110,7 @@
                                        </svg>
                                     </span>
                                     <div class="border-right"></div>
-                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Social and<br> public sectors</h5>
+                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Partnerships<br> & Collaborations</h5>
                                  </div>
                               </div>
                               <div class="col-xl-4 col-lg-6 col-md-6">
@@ -122,7 +122,7 @@
                                        </svg>
                                     </span>
                                     <div class="border-right"></div>
-                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Digital media<br> and entertainment</h5>
+                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Research<br> & Resources</h5>
                                  </div>
                               </div>
                               <div class="col-xl-4 col-lg-6 col-md-6">
@@ -138,7 +138,7 @@
                                        </svg>
                                     </span>
                                     <div class="border-right"></div>
-                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Forest products<br> paper & packaging</h5>
+                                    <h5 class="fw-500 fs-18 mb-0 ml-25 pt-10 pb-10 pr-10">Community<br> Engagement</h5>
                                  </div>
                               </div>
                            </div>
