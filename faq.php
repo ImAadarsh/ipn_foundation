@@ -92,7 +92,7 @@
                                  <path d="M5.99999 0C4.40934 0.00211003 2.88445 0.634928 1.75969 1.75969C0.634928 2.88445 0.00211003 4.40934 0 5.99999C0 10.3075 5.58999 15.7025 5.82749 15.93C5.87369 15.9749 5.93557 16 5.99999 16C6.06441 16 6.1263 15.9749 6.17249 15.93C6.40999 15.7025 12 10.3075 12 5.99999C11.9979 4.40934 11.3651 2.88445 10.2403 1.75969C9.11554 0.634928 7.59064 0.00211003 5.99999 0ZM5.99999 8.74999C5.4561 8.74999 4.92441 8.58871 4.47218 8.28653C4.01994 7.98436 3.66747 7.55487 3.45933 7.05237C3.25119 6.54988 3.19673 5.99694 3.30284 5.4635C3.40895 4.93005 3.67086 4.44005 4.05545 4.05545C4.44005 3.67086 4.93005 3.40895 5.4635 3.30284C5.99694 3.19673 6.54988 3.25119 7.05237 3.45933C7.55487 3.66747 7.98436 4.01994 8.28653 4.47218C8.58871 4.92441 8.74999 5.4561 8.74999 5.99999C8.74955 6.7292 8.45968 7.42842 7.94405 7.94405C7.42842 8.45968 6.7292 8.74955 5.99999 8.74999Z" fill="white" />
                               </svg>
                            </span>
-                           <a href="#" class="tp-text-grey-3 d-block hover-text-white">23 Artist Avenue Imagino<br> 985, Wonderland</a>
+                           <a href="#" class="tp-text-grey-3 d-block hover-text-white">118, 2nd Floor, Sadar Bazaar Cantt Market,<br>Near ICICI Bank, Lucknow, Uttar Pradesh, 226002, India</a>
                         </div>
                         <div class="tp-faq-details-item mb-25">
                            <span class="tp-faq-details-icon mr-15">
@@ -102,7 +102,7 @@
                            </span>
                            <div>
                               <span class="tp-text-grey-3 d-block">Direct email:</span>
-                              <a href="mailto:budgetoinfo@mail.com" class="tp-text-grey-3 d-block hover-text-white">budgetoinfo@mail.com</a>
+                              <a href="mailto:team@ipnfoundation.org" class="tp-text-grey-3 d-block hover-text-white">team@ipnfoundation.org</a>
                            </div>
                         </div>
                         <div class="tp-faq-details-item mb-45">
@@ -113,7 +113,7 @@
                            </span>
                            <div>
                               <span class="tp-text-grey-3 d-block">Monday-Saturday</span>
-                              <a href="#" class="tp-text-grey-3 d-block hover-text-white">8:00 am to 5:30 pm</a>
+                              <a href="#" class="tp-text-grey-3 d-block hover-text-white">10:00 am to 6:00 pm</a>
                            </div>
                         </div>
                         <div>
@@ -133,82 +133,212 @@
                            <h2 class="fw-600 fs-50 fs-lg-40 ls-m-2 mb-50 text-anim">Frequently asked question.</h2>
                            <div class="accordion" id="general_faqaccordion">
                               <div class="accordion-item mb-40">
-                                 <h2 class="accordion-header p-relative" id="order_one">
-                                    <button class="accordion-button tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_one" aria-expanded="true" aria-controls="order__collapse_one">
+                                 <h2 class="accordion-header p-relative" id="faq_one">
+                                    <button class="accordion-button tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_one" aria-expanded="true" aria-controls="faq_collapse_one">
                                        <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
-                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Qustion</span>
-                                       How do you help startups with product development?
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What is the IPN Foundation and what does it do?
                                     </button>
                                  </h2>
-                                 <div id="order__collapse_one" class="accordion-collapse collapse show" aria-labelledby="order_one" data-bs-parent="#general_faqaccordion">
+                                 <div id="faq_collapse_one" class="accordion-collapse collapse show" aria-labelledby="faq_one" data-bs-parent="#general_faqaccordion">
                                     <div class="accordion-body tp-faq-details-para">
-                                       <p>Yes, we offer ongoing maintenance services to keep your landscape  looking its best year-round.
-                                          From lawn care and seasonal clean-ups to  irrigation system maintenance and plant care, we
-                                          ensure your landscape  remains healthy and vibrant.</p>
+                                       <p>The IPN Foundation (Indian Principals' Network) is a global knowledge network dedicated to empowering school leaders, fostering innovation, and driving systemic improvements in education through leadership development, teacher training, and collaborative initiatives.</p>
                                     </div>
                                  </div>
                               </div>
                               <div class="accordion-item mb-40">
-                                 <h2 class="accordion-header p-relative" id="order_two">
-                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_two" aria-expanded="false" aria-controls="order__collapse_two">
+                                 <h2 class="accordion-header p-relative" id="faq_two">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_two" aria-expanded="false" aria-controls="faq_collapse_two">
                                        <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
-                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Qustion</span>
-                                       Do you provide financial planning and forecasting?
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       Who can join the IPN Foundation?
                                     </button>
                                  </h2>
-                                 <div id="order__collapse_two" class="accordion-collapse collapse" aria-labelledby="order_two" data-bs-parent="#general_faqaccordion">
+                                 <div id="faq_collapse_two" class="accordion-collapse collapse" aria-labelledby="faq_two" data-bs-parent="#general_faqaccordion">
                                     <div class="accordion-body tp-faq-details-para">
-                                       <p>Yes, we offer ongoing maintenance services to keep your landscape  looking its best year-round.
-                                          From lawn care and seasonal clean-ups to  irrigation system maintenance and plant care, we
-                                          ensure your landscape  remains healthy and vibrant.</p>
+                                       <p>School leaders, principals, educators, and education professionals from India and around the world are welcome to join the IPN Foundation and participate in its programs and events.</p>
                                     </div>
                                  </div>
                               </div>
                               <div class="accordion-item mb-40">
-                                 <h2 class="accordion-header p-relative" id="order_three">
-                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_three" aria-expanded="false" aria-controls="order__collapse_three">
+                                 <h2 class="accordion-header p-relative" id="faq_three">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_three" aria-expanded="false" aria-controls="faq_collapse_three">
                                        <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
-                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Qustion</span>
-                                       What makes startup consulting agency different from others?
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What are the main focus areas of the IPN Foundation?
                                     </button>
                                  </h2>
-                                 <div id="order__collapse_three" class="accordion-collapse collapse" aria-labelledby="order_three" data-bs-parent="#general_faqaccordion">
+                                 <div id="faq_collapse_three" class="accordion-collapse collapse" aria-labelledby="faq_three" data-bs-parent="#general_faqaccordion">
                                     <div class="accordion-body tp-faq-details-para">
-                                       <p>Yes, we offer ongoing maintenance services to keep your landscape  looking its best year-round.
-                                          From lawn care and seasonal clean-ups to  irrigation system maintenance and plant care, we
-                                          ensure your landscape  remains healthy and vibrant.</p>
+                                       <p>The foundation focuses on leadership development, teacher training, knowledge sharing, student empowerment, global networking, and organizing educational events and conclaves.</p>
                                     </div>
                                  </div>
                               </div>
                               <div class="accordion-item mb-40">
-                                 <h2 class="accordion-header p-relative" id="order_four">
-                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_four" aria-expanded="false" aria-controls="order__collapse_four">
+                                 <h2 class="accordion-header p-relative" id="faq_four">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_four" aria-expanded="false" aria-controls="faq_collapse_four">
                                        <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
-                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Qustion</span>
-                                       Can you help with fundraising and investor pitching?
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       Who founded the IPN Foundation?
                                     </button>
                                  </h2>
-                                 <div id="order__collapse_four" class="accordion-collapse collapse" aria-labelledby="order_four" data-bs-parent="#general_faqaccordion">
+                                 <div id="faq_collapse_four" class="accordion-collapse collapse" aria-labelledby="faq_four" data-bs-parent="#general_faqaccordion">
                                     <div class="accordion-body tp-faq-details-para">
-                                       <p>Yes, we offer ongoing maintenance services to keep your landscape  looking its best year-round.
-                                          From lawn care and seasonal clean-ups to  irrigation system maintenance and plant care, we
-                                          ensure your landscape  remains healthy and vibrant.</p>
+                                       <p>The IPN Foundation was founded by Gaurav Yadava, who also serves as its Chairman. He is supported by an advisory board of leading educators and experts.</p>
                                     </div>
                                  </div>
                               </div>
-                              <div class="accordion-item">
-                                 <h2 class="accordion-header p-relative" id="order_five">
-                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_five" aria-expanded="false" aria-controls="order__collapse_five">
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_five">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_five" aria-expanded="false" aria-controls="faq_collapse_five">
                                        <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
-                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Qustion</span>
-                                       Do you assist with legal and compliance requirements?
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What is IPN Global and how is it different from IPN India?
                                     </button>
                                  </h2>
-                                 <div id="order__collapse_five" class="accordion-collapse collapse" aria-labelledby="order_five" data-bs-parent="#general_faqaccordion">
+                                 <div id="faq_collapse_five" class="accordion-collapse collapse" aria-labelledby="faq_five" data-bs-parent="#general_faqaccordion">
                                     <div class="accordion-body tp-faq-details-para">
-                                       <p>Yes, we offer ongoing maintenance services to keep your landscape  looking its best year-round.
-                                          From lawn care and seasonal clean-ups to  irrigation system maintenance and plant care, we
-                                          ensure your landscape  remains healthy and vibrant.</p>
+                                       <p>IPN India is the national network for Indian school leaders, while IPN Global extends the network internationally, connecting school leaders from over 45 countries across five continents.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_six">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_six" aria-expanded="false" aria-controls="faq_collapse_six">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What is the IPN Academy?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_six" class="accordion-collapse collapse" aria-labelledby="faq_six" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>IPN Academy is an initiative of the IPN Foundation focused on continuous training and professional development for school leaders and teachers, offering workshops, certifications, and resources.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_seven">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_seven" aria-expanded="false" aria-controls="faq_collapse_seven">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       How can I participate in IPN Foundation events and conclaves?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_seven" class="accordion-collapse collapse" aria-labelledby="faq_seven" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>You can participate by registering through the IPN Foundation website or by contacting the foundation directly. Events are open to school leaders, educators, and partners interested in educational innovation.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_eight">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_eight" aria-expanded="false" aria-controls="faq_collapse_eight">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What are some of the foundation’s key partnerships?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_eight" class="accordion-collapse collapse" aria-labelledby="faq_eight" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>IPN Foundation partners with organizations like WWF-India to advance educational and environmental initiatives, and collaborates with schools, NGOs, and government bodies for impactful programs.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_nine">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_nine" aria-expanded="false" aria-controls="faq_collapse_nine">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       How does the IPN Foundation measure its impact?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_nine" class="accordion-collapse collapse" aria-labelledby="faq_nine" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>The foundation tracks its impact through the number of school leaders, teachers, and students reached, as well as through successful events, partnerships, and testimonials from the education community.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_ten">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_ten" aria-expanded="false" aria-controls="faq_collapse_ten">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       How can I contact the IPN Foundation?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_ten" class="accordion-collapse collapse" aria-labelledby="faq_ten" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>You can contact the IPN Foundation via email at team@ipnfoundation.org or info@ipnfoundation.org, or by phone at +91-8400700199. Office addresses are listed on the official website.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_eleven">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_eleven" aria-expanded="false" aria-controls="faq_collapse_eleven">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       How can schools or educators benefit from joining the IPN Foundation?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_eleven" class="accordion-collapse collapse" aria-labelledby="faq_eleven" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>Members gain access to a global network, leadership development opportunities, expert sessions, resources, and the chance to participate in innovative educational programs and events.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_twelve">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_twelve" aria-expanded="false" aria-controls="faq_collapse_twelve">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What is the process to become a member of the IPN Foundation?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_twelve" class="accordion-collapse collapse" aria-labelledby="faq_twelve" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>Interested individuals or institutions can apply for membership through the IPN Foundation website or by contacting the foundation directly for more information on eligibility and benefits.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_thirteen">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_thirteen" aria-expanded="false" aria-controls="faq_collapse_thirteen">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       Does the IPN Foundation offer resources or publications?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_thirteen" class="accordion-collapse collapse" aria-labelledby="faq_thirteen" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>Yes, the foundation regularly publishes news, articles, and resources on its website, and shares updates about its programs, events, and educational insights.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_fourteen">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_fourteen" aria-expanded="false" aria-controls="faq_collapse_fourteen">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       What is the IPN Foundation’s partnership with WWF-India about?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_fourteen" class="accordion-collapse collapse" aria-labelledby="faq_fourteen" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>The partnership with WWF-India aims to advance environmental education and conservation initiatives, engaging students and educators through innovative programs and capacity-building activities.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="accordion-item mb-40">
+                                 <h2 class="accordion-header p-relative" id="faq_fifteen">
+                                    <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#faq_collapse_fifteen" aria-expanded="false" aria-controls="faq_collapse_fifteen">
+                                       <span class="tp-faq-3-subtitle fs-14 tp-text-grey-1 ls-m-2 d-none">Answer</span>
+                                       <span class="tp-faq-3-subtitle-2 fs-14 tp-text-grey-1 ls-m-2">Question</span>
+                                       How can I stay updated about IPN Foundation’s activities?
+                                    </button>
+                                 </h2>
+                                 <div id="faq_collapse_fifteen" class="accordion-collapse collapse" aria-labelledby="faq_fifteen" data-bs-parent="#general_faqaccordion">
+                                    <div class="accordion-body tp-faq-details-para">
+                                       <p>You can follow the IPN Foundation on social media, subscribe to their newsletter, or regularly visit their website for the latest news, events, and updates.</p>
                                     </div>
                                  </div>
                               </div>
@@ -221,77 +351,67 @@
                            <div class="tp-faq-wrapper">
                               <div class="accordion" id="general_faqaccordions">
                                  <div class="accordion-item">
-                                    <h2 class="accordion-header" id="order_one1">
-                                       <button class="accordion-button tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_one1" aria-expanded="true" aria-controls="order__collapse_one1">
-                                          How do IT consultants support remote work solutions?
+                                    <h2 class="accordion-header" id="other_faq_1">
+                                       <button class="accordion-button tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#other_collapse_1" aria-expanded="true" aria-controls="other_collapse_1">
+                                          What is the IPN Pillars framework?
                                           <span class="accordion-btn"></span>
                                        </button>
                                     </h2>
-                                    <div id="order__collapse_one1" class="accordion-collapse collapse show" aria-labelledby="order_one1" data-bs-parent="#general_faqaccordions">
+                                    <div id="other_collapse_1" class="accordion-collapse collapse show" aria-labelledby="other_faq_1" data-bs-parent="#general_faqaccordions">
                                        <div class="accordion-body tp-faq-details-para">
-                                          <p>Yes, an IT consulting firm can significantly help with cloud migration by providing
-                                             expertise planning, and execution support to ensure a smooth transition.
-                                             Here’s how they assist.</p>
+                                          <p>The IPN Pillars are the core principles and focus areas that guide the foundation’s activities, including leadership, teacher empowerment, student entrepreneurship, and global collaboration.</p>
                                        </div>
                                     </div>
                                  </div>
                                  <div class="accordion-item">
-                                    <h2 class="accordion-header" id="order_two2">
-                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_two2" aria-expanded="false" aria-controls="order__collapse_two2">
-                                          Do IT consulting agencies offer flexible pricing plans?
+                                    <h2 class="accordion-header" id="other_faq_2">
+                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#other_collapse_2" aria-expanded="false" aria-controls="other_collapse_2">
+                                          How does IPN Foundation support teacher training?
                                           <span class="accordion-btn"></span>
                                        </button>
                                     </h2>
-                                    <div id="order__collapse_two2" class="accordion-collapse collapse" aria-labelledby="order_two2" data-bs-parent="#general_faqaccordions">
+                                    <div id="other_collapse_2" class="accordion-collapse collapse" aria-labelledby="other_faq_2" data-bs-parent="#general_faqaccordions">
                                        <div class="accordion-body tp-faq-details-para">
-                                          <p>Yes, an IT consulting firm can significantly help with cloud migration by providing
-                                             expertise planning, and execution support to ensure a smooth transition.
-                                             Here’s how they assist.</p>
+                                          <p>IPN Foundation organizes workshops, expert sessions, and certification programs to upskill teachers and promote best practices in education.</p>
                                        </div>
                                     </div>
                                  </div>
                                  <div class="accordion-item">
-                                    <h2 class="accordion-header" id="order_three3">
-                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_three3" aria-expanded="false" aria-controls="order__collapse_three3">
-                                          Can an IT consulting firm help with cloud migration?
+                                    <h2 class="accordion-header" id="other_faq_3">
+                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#other_collapse_3" aria-expanded="false" aria-controls="other_collapse_3">
+                                          What is the IPN Voyage?
                                           <span class="accordion-btn"></span>
                                        </button>
                                     </h2>
-                                    <div id="order__collapse_three3" class="accordion-collapse collapse" aria-labelledby="order_three3" data-bs-parent="#general_faqaccordions">
+                                    <div id="other_collapse_3" class="accordion-collapse collapse" aria-labelledby="other_faq_3" data-bs-parent="#general_faqaccordions">
                                        <div class="accordion-body tp-faq-details-para">
-                                          <p>Yes, an IT consulting firm can significantly help with cloud migration by providing
-                                             expertise planning, and execution support to ensure a smooth transition.
-                                             Here’s how they assist.</p>
+                                          <p>The IPN Voyage highlights the journey, milestones, and impact stories of the foundation, showcasing its growth and achievements in education leadership.</p>
                                        </div>
                                     </div>
                                  </div>
                                  <div class="accordion-item">
-                                    <h2 class="accordion-header" id="order_four4">
-                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_four4" aria-expanded="false" aria-controls="order__collapse_four4">
-                                          Why should a business hire an IT consulting agency?
+                                    <h2 class="accordion-header" id="other_faq_4">
+                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#other_collapse_4" aria-expanded="false" aria-controls="other_collapse_4">
+                                          Can students benefit from IPN Foundation programs?
                                           <span class="accordion-btn"></span>
                                        </button>
                                     </h2>
-                                    <div id="order__collapse_four4" class="accordion-collapse collapse" aria-labelledby="order_four4" data-bs-parent="#general_faqaccordions">
+                                    <div id="other_collapse_4" class="accordion-collapse collapse" aria-labelledby="other_faq_4" data-bs-parent="#general_faqaccordions">
                                        <div class="accordion-body tp-faq-details-para">
-                                          <p>Yes, an IT consulting firm can significantly help with cloud migration by providing
-                                             expertise planning, and execution support to ensure a smooth transition.
-                                             Here’s how they assist.</p>
+                                          <p>Yes, the foundation runs initiatives to foster student leadership, entrepreneurship, and holistic development through its network of schools and partners.</p>
                                        </div>
                                     </div>
                                  </div>
                                  <div class="accordion-item">
-                                    <h2 class="accordion-header" id="order_five5">
-                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_five5" aria-expanded="false" aria-controls="order__collapse_five5">
-                                          Do IT consulting agencies offer flexible pricing plans?
+                                    <h2 class="accordion-header" id="other_faq_5">
+                                       <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#other_collapse_5" aria-expanded="false" aria-controls="other_collapse_5">
+                                          How can I partner or collaborate with IPN Foundation?
                                           <span class="accordion-btn"></span>
                                        </button>
                                     </h2>
-                                    <div id="order__collapse_five5" class="accordion-collapse collapse" aria-labelledby="order_five5" data-bs-parent="#general_faqaccordions">
+                                    <div id="other_collapse_5" class="accordion-collapse collapse" aria-labelledby="other_faq_5" data-bs-parent="#general_faqaccordions">
                                        <div class="accordion-body tp-faq-details-para">
-                                          <p>Yes, an IT consulting firm can significantly help with cloud migration by providing
-                                             expertise planning, and execution support to ensure a smooth transition.
-                                             Here’s how they assist.</p>
+                                          <p>Organizations and individuals interested in collaboration can reach out via the official website or email to explore partnership opportunities in education, events, or research.</p>
                                        </div>
                                     </div>
                                  </div>
@@ -306,39 +426,7 @@
          <!-- tp-faq-area-end --> 
 
          <!-- tp-cta-area-start -->
-         <div class="tp-cta-area anim-zoomin-wrap p-relative pt-135 pb-120">
-            <div class="tp-gsap-image-position anim-zoomin fix">
-               <img class="tp-gsap-image-cover" src="assets/img/cta/bg-6.jpg" alt="">
-            </div>
-            <div class="container">
-               <div class="row">
-                  <div class="col-xl-7 col-lg-9">
-                     <div class="tp-cta-3-title-wrap mr-100">
-                        <h2 class="mb-15 fs-xl-40 fs-sm-36 text-anim">Let’s join hands and make it happen with  <span class="text-italic fw-400 tp-ff-heading">the team!</span> </h2>
-                        <p class="mb-40">Success is never a solo journey—it’s a collective effort driven by teamwork,<br>
-                           collaboration, and shared vision. When we come together.</p>
-                        <div class="tp-cta-6-btn d-flex align-items-center">
-                           <a href="contact.php" class="tp-btn-xl mb-20 mr-20 d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
-                              <span class="d-flex align-items-center justify-content-center">
-                                 <span class="btn-text"> Schedule a free consultant</span>
-                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </span> 
-                           </a>
-                           <div class="tp-cta-6-call mb-20">
-                              <span class="icon mr-15">
-                                 <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M13.2811 17.9971C7.18994 18.2031 -3.78322 7.31835 1.31157 1.41675L2.17306 0.667624C2.60914 0.246066 3.19368 0.0131721 3.80018 0.0193408C4.40667 0.0255096 4.98635 0.270245 5.41377 0.700585C5.43687 0.724111 5.45839 0.749136 5.47819 0.775498L6.82662 2.5277C7.2364 2.96132 7.46409 3.5357 7.4627 4.13232C7.46131 4.72894 7.23093 5.30225 6.81912 5.73395L5.95164 6.82468C6.43192 7.99112 7.13782 9.05123 8.02883 9.94417C8.91984 10.8371 9.97842 11.5453 11.1438 12.0281L12.2405 11.1554C12.6778 10.7537 13.2498 10.5305 13.8435 10.5296C14.4373 10.5288 15.0098 10.7505 15.4483 11.1509L17.2012 12.4993C17.2274 12.519 17.2524 12.5403 17.2761 12.563C17.7084 12.9993 17.951 13.5886 17.951 14.2028C17.951 14.817 17.7084 15.4063 17.2761 15.8426L16.5937 16.6292C16.1608 17.0668 15.6447 17.4133 15.0757 17.6483C14.5068 17.8832 13.8966 18.0018 13.2811 17.9971ZM3.77394 1.51638C3.66628 1.5163 3.55967 1.53743 3.46018 1.57856C3.36069 1.61969 3.27028 1.68002 3.19412 1.7561L2.33187 2.50523C-1.89768 7.59028 11.0449 19.8122 15.497 15.6059L16.1802 14.8186C16.2614 14.7463 16.3275 14.6587 16.3747 14.5607C16.4219 14.4628 16.4492 14.3565 16.4551 14.2479C16.4611 14.1393 16.4454 14.0307 16.4092 13.9282C16.3729 13.8257 16.3167 13.7314 16.2438 13.6507L14.5006 12.312C14.4739 12.2924 14.4489 12.2706 14.4257 12.2468C14.2694 12.0979 14.0618 12.0148 13.8459 12.0148C13.63 12.0148 13.4224 12.0979 13.2661 12.2468C13.2462 12.267 13.2252 12.286 13.2032 12.3038L11.7364 13.4724C11.6345 13.5535 11.5134 13.6066 11.3848 13.6265C11.2562 13.6465 11.1246 13.6326 11.003 13.5863C9.49284 13.0237 8.12126 12.1431 6.98116 11.0042C5.84106 9.86524 4.95908 8.49455 4.39496 6.98499C4.34502 6.86166 4.32883 6.72726 4.34805 6.59559C4.36727 6.46393 4.42122 6.33977 4.50433 6.23587L5.66847 4.77058C5.68579 4.74838 5.70456 4.72736 5.72466 4.70765C5.87768 4.55332 5.96353 4.34479 5.96353 4.12745C5.96353 3.91012 5.87768 3.70159 5.72466 3.54726C5.70131 3.52396 5.67977 3.49892 5.66023 3.47235L4.32454 1.73138C4.17362 1.59502 3.97734 1.51971 3.77394 1.52013V1.51638ZM16.8784 9.43912C20.6165 3.9368 14.0317 -2.64126 8.53537 1.09612C8.45248 1.15146 8.38147 1.22278 8.32649 1.30591C8.27152 1.38904 8.23368 1.4823 8.2152 1.58024C8.19672 1.67817 8.19797 1.77881 8.21887 1.87625C8.23977 1.9737 8.27991 2.06599 8.33692 2.14773C8.39394 2.22947 8.4667 2.29902 8.55093 2.35228C8.63516 2.40555 8.72918 2.44148 8.82747 2.45796C8.92576 2.47444 9.02635 2.47114 9.12335 2.44825C9.22035 2.42537 9.3118 2.38336 9.39236 2.32469C13.4931 -0.491272 18.4642 4.48516 15.6498 8.58287C15.5898 8.66336 15.5467 8.75508 15.5229 8.85257C15.4991 8.95006 15.4951 9.05134 15.5112 9.1504C15.5273 9.24946 15.5631 9.34428 15.6165 9.42923C15.67 9.51417 15.7399 9.58751 15.8223 9.6449C15.9046 9.70228 15.9976 9.74254 16.0958 9.76327C16.194 9.78401 16.2954 9.7848 16.3939 9.76561C16.4924 9.74641 16.586 9.70762 16.6693 9.65154C16.7525 9.59545 16.8236 9.52322 16.8784 9.43912ZM13.9882 8.042C14.1287 7.90152 14.2076 7.71101 14.2076 7.51237C14.2076 7.31373 14.1287 7.12322 13.9882 6.98274L12.7102 5.70399V3.76375C12.7102 3.56507 12.6313 3.37453 12.4908 3.23404C12.3503 3.09356 12.1598 3.01463 11.9611 3.01463C11.7624 3.01463 11.5719 3.09356 11.4314 3.23404C11.2909 3.37453 11.212 3.56507 11.212 3.76375V6.01113C11.212 6.20979 11.291 6.4003 11.4315 6.54076L12.9297 8.03901C13.0702 8.17945 13.2607 8.25834 13.4594 8.25834C13.658 8.25834 13.8485 8.17945 13.989 8.03901L13.9882 8.042Z" fill="#1F3130" />
-                                 </svg>
-                              </span>
-                              <a href="tel:+9992131432659">+999 21314 32659</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+<?php include "include/cta1.php"?>
          <!-- tp-cta-area-end -->
 
       </main>
