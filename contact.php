@@ -57,7 +57,7 @@
                <button class="close-btn"><i class="fal fa-times"></i></button>
             </div>
             <div class="tpoffcanvas__logo">
-               <a href="index.html">
+               <a href="index.php">
                   <img data-width="140" src="assets/img/logo/logo-black.png" alt="logo">
                </a>
             </div>
@@ -142,7 +142,7 @@
                <nav></nav>
             </div>
             <div class="tpoffcanvas-btn-1 mb-50">
-               <a class="tpoffcanvas-btn" href="contact.html">Get Started</a>
+               <a class="tpoffcanvas-btn" href="contact.php">Get Started</a>
             </div>
             <div class="tpoffcanvas__contact-info">
                <div class="tpoffcanvas__contact-title">
@@ -217,7 +217,7 @@
                <div class="col-lg-12">
                   <div class="tp-search-top d-flex justify-content-between align-items-center">
                      <div class="cm-search-logo">
-                        <a href="index.html"><img data-width="160" src="assets/img/logo/logo-black.png" alt="logo"></a>
+                        <a href="index.php"><img data-width="160" src="assets/img/logo/logo-black.png" alt="logo"></a>
                      </div>
                      <button class="tp-search-close">
                         <i class="fa-light fa-xmark"></i>
@@ -248,7 +248,7 @@
       <header class="tp-header-height">
 
          <!-- tp-header-area-start -->
-         <div class="tp-header-area tp-header-2-wrap header-transparent">
+         <div class="tp-header-area header-transparent tp-header-2-wrap">
             <div class="tp-header-3-top tp-header-4-top d-none d-xl-block">
                <div class="container-fluid container-1690">
                   <div class="row align-items-center">
@@ -306,7 +306,7 @@
                      <div class="col-xl-2 col-sm-3 col-5">
                         <div class="tp-header-left">
                            <div class="tp-header-logo">
-                              <a href="index.html"><img data-width="168" src="assets/img/logo/logo-black.png" alt=""></a>
+                              <a href="index.php"><img data-width="168" src="assets/img/logo/logo-black.png" alt=""></a>
                            </div>
                         </div>
                      </div>
@@ -316,7 +316,7 @@
                               <nav class="tp-mobile-menu-active">
                                  <ul>
                                     <li class="has-dropdown p-inherit">
-                                       <a href="index.html">Home</a>
+                                       <a href="index.php">Home</a>
                                        <div class="tp-submenu submenu tp-main-mega-menu">
                                           <div class="tp-menu-fullwidth">
                                              <div class="tp-homemenu-wrapper">
@@ -324,11 +324,11 @@
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="index.html"><img src="assets/img/menu/demo.jpg" alt=""></a>
+                                                            <a href="index.php"><img src="assets/img/menu/demo.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="index.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="index.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -337,7 +337,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="index-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="index-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -349,18 +349,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="index.html">Business</a>
+                                                            <a href="index.php">Business</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-consulting.html"><img src="assets/img/menu/demo-2.jpg" alt=""></a>
+                                                            <a href="home-consulting.php"><img src="assets/img/menu/demo-2.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-consulting.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-consulting.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -369,7 +369,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-consulting-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-consulting-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -381,18 +381,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-consulting.html">Consulting</a>
+                                                            <a href="home-consulting.php">Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-startup.html"><img src="assets/img/menu/demo-3.jpg" alt=""></a>
+                                                            <a href="home-startup.php"><img src="assets/img/menu/demo-3.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-startup.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-startup.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -401,7 +401,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-startup-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-startup-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -413,18 +413,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-startup.html">Startup Consulting</a>
+                                                            <a href="home-startup.php">Startup Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-hr.html"><img src="assets/img/menu/demo-4.jpg" alt=""></a>
+                                                            <a href="home-hr.php"><img src="assets/img/menu/demo-4.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-hr.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-hr.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -433,7 +433,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-hr-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-hr-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -445,18 +445,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-hr.html">HR Consulting</a>
+                                                            <a href="home-hr.php">HR Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-it.html"><img src="assets/img/menu/demo-5.jpg" alt=""></a>
+                                                            <a href="home-it.php"><img src="assets/img/menu/demo-5.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-it.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-it.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -465,7 +465,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-it-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-it-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -477,18 +477,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-it.html">IT Consulting</a>
+                                                            <a href="home-it.php">IT Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-corporate.html"><img  src="assets/img/menu/demo-6.jpg" alt=""></a>
+                                                            <a href="home-corporate.php"><img  src="assets/img/menu/demo-6.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-corporate.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-corporate.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -497,7 +497,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-corporate-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-corporate-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -509,18 +509,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-corporate.html">Corporate Consulting</a>
+                                                            <a href="home-corporate.php">Corporate Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-banking.html"><img src="assets/img/menu/demo-7.jpg" alt=""></a>
+                                                            <a href="home-banking.php"><img src="assets/img/menu/demo-7.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-banking.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-banking.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -529,7 +529,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-banking-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-banking-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -541,18 +541,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-banking.html">Banking Consulting</a>
+                                                            <a href="home-banking.php">Banking Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-financial.html"><img src="assets/img/menu/demo-8.jpg" alt=""></a>
+                                                            <a href="home-financial.php"><img src="assets/img/menu/demo-8.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-financial.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-financial.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -561,7 +561,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-financial-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-financial-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -573,7 +573,7 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-financial.html">Financial Advisor</a>
+                                                            <a href="home-financial.php">Financial Advisor</a>
                                                          </h4>
                                                       </div>
                                                    </div>
@@ -604,39 +604,39 @@
                                                 </div>
                                              </div>
                                           </div>
-                                       </div> 
+                                       </div>  
                                     </li>
                                     <li class="has-dropdown">
                                        <a href="#">Pages</a>
                                        <ul class="tp-submenu submenu">
-                                          <li><a href="team.html">Team</a></li>
-                                          <li><a href="team-details.html">Team Details</a></li>
-                                          <li><a href="pricing.html">Pricing</a></li>
-                                          <li><a href="service.html">Services</a></li>
-                                          <li><a href="service-details.html">Services Details</a></li>
-                                          <li><a href="faq.html">Faq</a></li>
-                                          <li><a href="error.html">Error</a></li>
-                                          <li><a href="testimonial.html">Testimonial</a></li>
-                                          <li><a href="comeing-soon.html">Comeing Soon</a></li>
+                                          <li><a href="team.php">Team</a></li>
+                                          <li><a href="team-details.php">Team Details</a></li>
+                                          <li><a href="pricing.php">Pricing</a></li>
+                                          <li><a href="service.php">Services</a></li>
+                                          <li><a href="service-details.php">Services Details</a></li>
+                                          <li><a href="faq.php">Faq</a></li>
+                                          <li><a href="error.php">Error</a></li>
+                                          <li><a href="testimonial.php">Testimonial</a></li>
+                                          <li><a href="comeing-soon.php">Comeing Soon</a></li>
                                        </ul>
                                     </li>
-                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="about.php">About</a></li>
                                     <li class="has-dropdown">
-                                       <a href="project.html">Portfolio</a>
+                                       <a href="project.php">Portfolio</a>
                                        <ul class="tp-submenu submenu">
-                                          <li><a href="project.html">Portfolio</a></li>
-                                          <li><a href="project-details.html">Portfolio Details</a></li>
+                                          <li><a href="project.php">Portfolio</a></li>
+                                          <li><a href="project-details.php">Portfolio Details</a></li>
                                        </ul>
                                     </li>
                                     <li class="has-dropdown">
-                                       <a href="blog.html">Blog</a>
+                                       <a href="blog.php">Blog</a>
                                        <ul class="tp-submenu submenu">
-                                          <li><a href="blog.html">Blog</a></li>
-                                          <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                          <li><a href="blog-details.html">Blog Details</a></li>
+                                          <li><a href="blog.php">Blog</a></li>
+                                          <li><a href="blog-sidebar.php">Blog Sidebar</a></li>
+                                          <li><a href="blog-details.php">Blog Details</a></li>
                                        </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                  </ul>
                               </nav>
                            </div>
@@ -650,7 +650,7 @@
                                  </button>
                               </div>
                               <div class="tp-header-2-btn ml-10 d-none d-md-inline-block">
-                                 <a href="contact.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                 <a href="contact.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
                                        <span class="btn-text">Get in touch </span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -675,6 +675,7 @@
          <!-- tp-header-area-end -->
 
       </header>
+
       <div id="smooth-wrapper">
          <div id="smooth-content">
 
@@ -684,18 +685,18 @@
                <div class="tp-hero-gsap-team-spacing">
                   <div class="tp-breadcrumb-area anim-zoomin-wrap p-relative pt-200">
                      <div class="tp-gsap-image-position anim-zoomin fix">
-                        <img class="tp-gsap-image-cover" src="assets/img/breadcrumb/bg-5.jpg" alt="">
+                        <img class="tp-gsap-image-cover" src="assets/img/breadcrumb/bg-14.jpg" alt="">
                      </div>
                      <div class="container">
                         <div class="row">
                            <div class="col-xl-6 col-lg-7 col-md-10">
                               <div class="tp-breadcrumb-content mr-80">
-                                 <h2 class="tp-breadcrumb-title fw-600 fs-60 fs-xs-40 ls-m-3 tp-text-common-white lh-1 text-anim">Our Pricing</h2>
+                                 <h2 class="tp-breadcrumb-title fw-600 fs-60 fs-xs-40 ls-m-3 text-anim tp-text-common-white lh-1">Contact us</h2>
                                  <div class="tp-breadcrumb-dvdr">
                                     <ul>
-                                       <li><a href="index.html">Main Home</a></li>
+                                       <li><a href="index.php">Main Home</a></li>
                                        <li class="dvdr">/</li>
-                                       <li>Our Pricing</li>
+                                       <li>Contact us</li>
                                     </ul>
                                  </div>
                               </div>
@@ -706,140 +707,193 @@
                </div>
                <!-- tp-breadcrumb-area-end -->
 
-               <!-- tp-pricing-area-start -->
-               <div class="tp-pricing-area pt-140 pb-110">
+               <!-- tp-contact-area-start -->
+               <div class="tp-contact-area pt-135">
                   <div class="container">
                      <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                           <div class="tp-pricing-5-item tp-round-4 mb-30 wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                              <div class="tp-pricing-5-head mb-35">
-                                 <span class="fw-500 fs-18 ls-m-2 tp-text-theme-primary mb-10 d-inline-block">Basic plan</span>
-                                 <div class="d-flex align-items-center">
-                                    <h3 class="fs-60 ls-m-2 mb-0 mr-35">$265</h3>
-                                    <p class="ls-m-2 fs-16 tp-text-grey-1 mb-0">Per user<br> Per month</p>
-                                 </div>
-                              </div>
-                              <div class="tp-pricing-5-btn-wrap mb-50">
-                                 <a class="tp-pricing-5-btn mb-10 tp-text-common-white fw-500 fs-16 tp-bg-theme-primary d-block text-center tp-round-4 hover-bg-white hover-text-primary" href="contact.html">Choose your plan</a>
-                                 <a class="tp-pricing-5-btn btn-transparent tp-text-theme-primary fw-500 fs-16 hover-bg-secondary d-block text-center tp-round-4 hover-text-primary" href="contact.html">Chat to sale</a>
-                              </div>
-                              <div class="tp-pricing-5-list mb-40">
-                                 <ul>
-                                    <li><i class="fa-regular fa-check"></i> Assessment & strategy consultation</li>
-                                    <li><i class="fa-regular fa-check"></i> Email & collaboration tools setup</li>
-                                    <li><i class="fa-regular fa-check"></i> Hardware recommendations</li>
-                                    <li><i class="fa-regular fa-check"></i> Cloud computing advisory</li>
-                                    <li><i class="fa-regular fa-check"></i> Basic cybersecurity audit</li>
-                                 </ul>
-                              </div>
-                              <div class="tp-pricing-5-btn-bottom">
-                                 <a href="#" class="d-flex justify-content-between align-items-center fw-500 fs-16 tp-text-theme-primary">
-                                    Access full details PDF
-                                    <i class="fa-sharp fa-regular fa-arrow-right"></i>
-                                 </a>
+                        <div class="col-lg-9 col-md-6">
+                           <div class="tp-contact-title-wrap mb-30">
+                              <span class="fw-500 fs-16 tp-text-grey-1 mb-5 d-inline-block"> Contact with us</span>
+                              <h3 class="mb-20 fs-xl-40 fs-sm-36 text-anim">How to you <span class="text-italic fw-400 tp-ff-heading">find us</span></h3>
+                              <div class="tp-contact-tag pt-90">
+                                 <a href="#">New York</a>
+                                 <a href="#">London</a>
+                                 <a href="#">Australia</a>
                               </div>
                            </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                           <div class="tp-pricing-5-item active tp-bg-theme-primary tp-round-4 mb-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                              <div class="tp-pricing-5-head mb-35">
-                                 <span class="fw-500 fs-18 ls-m-2 tp-text-common-white mb-10 d-inline-block">Basic plan</span>
-                                 <div class="d-flex align-items-center">
-                                    <h3 class="fs-60 ls-m-2 mb-0 mr-35 tp-text-common-white">$465</h3>
-                                    <p class="ls-m-2 fs-16 tp-text-common-white mb-0">Per user<br> Per month</p>
+                        <div class="col-lg-3 col-md-6">
+                           <div class="tp-contact-main-info mb-30">
+                              <div class="d-flex align-items-center mb-20">
+                                 <span class="tp-contact-main-icon mr-15">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M15.62 8.75027C15.19 8.75027 14.85 8.40027 14.85 7.98027C14.85 7.61027 14.48 6.84027 13.86 6.17028C13.25 5.52028 12.58 5.14028 12.02 5.14028C11.59 5.14028 11.25 4.79028 11.25 4.37028C11.25 3.95028 11.6 3.60028 12.02 3.60028C13.02 3.60028 14.07 4.14028 14.99 5.11028C15.85 6.02028 16.4 7.15027 16.4 7.97027C16.4 8.40027 16.05 8.75027 15.62 8.75027Z" fill="#1F3130" />
+                                       <path d="M19.2278 8.74998C18.7978 8.74998 18.4578 8.39998 18.4578 7.97998C18.4578 4.42999 15.5678 1.55 12.0278 1.55C11.5978 1.55 11.2578 1.2 11.2578 0.779998C11.2578 0.359999 11.5978 0 12.0178 0C16.4178 0 19.9978 3.57999 19.9978 7.97998C19.9978 8.39998 19.6478 8.74998 19.2278 8.74998Z" fill="#1F3130" />
+                                       <path opacity="0.4" d="M9.78998 12.21L6.51999 15.48C6.15999 15.16 5.80999 14.83 5.46999 14.49C4.43999 13.45 3.50999 12.36 2.67999 11.22C1.86 10.08 1.2 8.93998 0.719999 7.80999C0.24 6.66999 0 5.57999 0 4.53999C0 3.85999 0.12 3.20999 0.359999 2.60999C0.599999 2 0.979998 1.44 1.51 0.939998C2.15 0.309999 2.84999 0 3.58999 0C3.86999 0 4.14999 0.06 4.39999 0.18C4.65999 0.299999 4.88999 0.479999 5.06999 0.739999L7.38999 4.00999C7.56998 4.25999 7.69998 4.48999 7.78998 4.70999C7.87998 4.91999 7.92998 5.12999 7.92998 5.31999C7.92998 5.55999 7.85998 5.79999 7.71998 6.02999C7.58998 6.25999 7.39998 6.49999 7.15999 6.73999L6.39999 7.52998C6.28999 7.63998 6.23999 7.76999 6.23999 7.92998C6.23999 8.00998 6.24999 8.07998 6.26999 8.15998C6.29999 8.23998 6.32999 8.29998 6.34999 8.35998C6.52999 8.68998 6.83999 9.11998 7.27998 9.63998C7.72998 10.16 8.20998 10.69 8.72998 11.22C9.08998 11.57 9.43998 11.91 9.78998 12.21Z" fill="#1F3130" />
+                                       <path d="M19.9715 16.33C19.9715 16.61 19.9215 16.9 19.8215 17.18C19.7915 17.26 19.7615 17.34 19.7215 17.42C19.5515 17.78 19.3315 18.12 19.0415 18.44C18.5515 18.98 18.0115 19.37 17.4015 19.62C17.3915 19.62 17.3815 19.63 17.3715 19.63C16.7815 19.87 16.1415 20 15.4515 20C14.4315 20 13.3415 19.76 12.1916 19.27C11.0416 18.78 9.89156 18.12 8.75156 17.29C8.36156 17 7.97156 16.71 7.60156 16.4L10.8716 13.13C11.1516 13.34 11.4016 13.5 11.6116 13.61C11.6616 13.63 11.7216 13.66 11.7916 13.69C11.8716 13.72 11.9516 13.73 12.0416 13.73C12.2116 13.73 12.3416 13.67 12.4516 13.56L13.2116 12.81C13.4615 12.56 13.7015 12.37 13.9315 12.25C14.1615 12.11 14.3915 12.04 14.6415 12.04C14.8315 12.04 15.0315 12.08 15.2515 12.17C15.4715 12.26 15.7015 12.39 15.9515 12.56L19.2615 14.91C19.5215 15.09 19.7015 15.3 19.8115 15.55C19.9115 15.8 19.9715 16.05 19.9715 16.33Z" fill="#1F3130" />
+                                    </svg>
+                                 </span>
+                                 <div>
+                                    <span class="tp-text-grey-1 fw-600 fs-12 text-uppercase d-block lh-1 mb-5"> Call Us Directly</span>
+                                    <a href="tel:+(1)2246767430" class="fw-600 fs-16 ls-m-2 tp-text-theme-primary underline-black">+(1) 224 676 7430</a>
                                  </div>
                               </div>
-                              <div class="tp-pricing-5-btn-wrap mb-50">
-                                 <a class="tp-pricing-5-btn mb-10 tp-text-theme-primary fw-500 fs-16 tp-bg-common-white d-block hover-bg-secondary text-center tp-round-4 hover-text-primary" href="contact.html">Choose your plan</a>
-                                 <a class="tp-pricing-5-btn btn-transparent tp-text-common-white fw-500 fs-16 hover-bg-secondary d-block text-center tp-round-4 hover-text-primary" href="contact.html">Chat to sale</a>
+                              <div class="d-flex align-items-center mb-20">
+                                 <span class="tp-contact-main-icon mr-15">
+                                    <svg width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M17.5 5C18.8807 5 20 3.88071 20 2.5C20 1.11929 18.8807 0 17.5 0C16.1193 0 15 1.11929 15 2.5C15 3.88071 16.1193 5 17.5 5Z" fill="#1F3130" />
+                                       <path d="M17.5 5C18.8807 5 20 3.88071 20 2.5C20 1.11929 18.8807 0 17.5 0C16.1193 0 15 1.11929 15 2.5C15 3.88071 16.1193 5 17.5 5Z" fill="#1F3130" />
+                                       <path d="M18.72 6.31001C19.35 6.11001 20 6.60002 20 7.27002V12.51C20 16.01 18 17.51 15 17.51H5C2 17.51 0 16.01 0 12.51V5.51001C0 2.01001 2 0.51001 5 0.51001H12.61C13.26 0.51001 13.7 1.11002 13.58 1.74002C13.46 2.33002 13.48 2.96002 13.66 3.61002C14.03 4.95002 15.12 6.02001 16.46 6.37001C17.25 6.57001 18.02 6.53001 18.72 6.31001Z" fill="#1F3130" />
+                                       <path d="M10.0027 9.86977C9.16271 9.86977 8.31271 9.60978 7.66271 9.07978L4.53271 6.57978C4.21271 6.31978 4.15271 5.84978 4.41271 5.52978C4.67271 5.20978 5.1427 5.14978 5.4627 5.40978L8.5927 7.90978C9.3527 8.51978 10.6427 8.51978 11.4027 7.90978L12.5827 6.96978C12.9027 6.70978 13.3827 6.75977 13.6327 7.08977C13.8927 7.40977 13.8427 7.88978 13.5127 8.13978L12.3327 9.07978C11.6927 9.60978 10.8427 9.86977 10.0027 9.86977Z" fill="white" />
+                                    </svg>
+                                 </span>
+                                 <div>
+                                    <span class="tp-text-grey-1 fw-600 fs-12 text-uppercase d-block lh-1 mb-5"> Need Support?</span>
+                                    <a href="mailto:info@gmail.com" class="fw-600 fs-16 ls-m-2 tp-text-theme-primary underline-black">info@gmail.com</a>
+                                 </div>
                               </div>
-                              <div class="tp-pricing-5-list mb-40">
-                                 <ul>
-                                    <li><i class="fa-regular fa-check"></i> Assessment & strategy consultation</li>
-                                    <li><i class="fa-regular fa-check"></i> Email & collaboration tools setup</li>
-                                    <li><i class="fa-regular fa-check"></i> Hardware recommendations</li>
-                                    <li><i class="fa-regular fa-check"></i> Cloud computing advisory</li>
-                                    <li><i class="fa-regular fa-check"></i> Basic cybersecurity audit</li>
-                                 </ul>
-                              </div>
-                              <div class="tp-pricing-5-btn-bottom">
-                                 <a href="#" class="d-flex justify-content-between align-items-center fw-500 fs-16 tp-text-common-white hover-text-white">
-                                    Access full details PDF
-                                    <i class="fa-sharp fa-regular fa-arrow-right"></i>
-                                 </a>
+                              <div class="d-flex align-items-center mb-20">
+                                 <span class="tp-contact-main-icon mr-15">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path opacity="0.4" d="M16.4738 14.83L16.8638 17.99C16.9638 18.82 16.0738 19.4 15.3638 18.97L11.1738 16.48C10.7138 16.48 10.2638 16.45 9.82376 16.39C10.5638 15.52 11.0038 14.42 11.0038 13.23C11.0038 10.39 8.54375 8.09003 5.50375 8.09003C4.34375 8.09003 3.27376 8.42 2.38376 9C2.35376 8.75 2.34375 8.49999 2.34375 8.23999C2.34375 3.68999 6.29375 0 11.1738 0C16.0538 0 20.0038 3.68999 20.0038 8.23999C20.0038 10.94 18.6138 13.33 16.4738 14.83Z" fill="#1F3130" />
+                                       <path d="M11 13.23C11 14.42 10.56 15.52 9.82001 16.39C8.83001 17.59 7.26 18.36 5.5 18.36L2.89 19.91C2.45 20.18 1.89 19.81 1.95 19.3L2.2 17.33C0.859997 16.4 0 14.91 0 13.23C0 11.47 0.940005 9.92 2.38 9C3.27 8.42 4.34 8.09003 5.5 8.09003C8.54 8.09003 11 10.39 11 13.23Z" fill="#1F3130" />
+                                    </svg>
+                                 </span>
+                                 <div>
+                                    <a href="#" class="fw-600 fs-16 ls-m-2 tp-text-theme-primary underline-black">Start Chat</a>
+                                 </div>
                               </div>
                            </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                           <div class="tp-pricing-5-item tp-round-4 mb-30 wow fadeInRight" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                              <div class="tp-pricing-5-head mb-35">
-                                 <span class="fw-500 fs-18 ls-m-2 tp-text-theme-primary mb-10 d-inline-block">Premium plan</span>
-                                 <div class="d-flex align-items-center">
-                                    <h3 class="fs-60 ls-m-2 mb-0 mr-35">$765</h3>
-                                    <p class="ls-m-2 fs-16 tp-text-grey-1 mb-0">Per user<br> Per month</p>
+                        <div class="col-lg-12">
+                           <div class="tp-contact-slider-wrap p-relative pt-20">
+                              <div class="swiper-container tp-contact-slide">
+                                 <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                       <div class="tp-contact-slider-thumb tp-round-4 p-relative bg-position not-hide-cursor" data-cursor="Drag" data-background="assets/img/contact/thumb.jpg">
+                                          <h4 class="fs-30 ls-m-3 tp-text-common-white mb-10">31 Winding Creek Road,<br> New York, USA</h4>
+                                          <span class="fw-600 fs-14 ls-m-2 tp-text-common-white d-inline-block mb-20">Monday - Friday 10 a.m. - 6 p.m.</span>
+                                          <div class="tp-contact-office-email d-flex align-items-center">
+                                             <span class="tp-text-common-white fw-700 fs-12 text-uppercase">OFFICE EMAIL</span>
+                                             <span class="tp-contact-email-border"></span>
+                                             <span>
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                       <div class="tp-contact-slider-thumb tp-round-4 p-relative bg-position not-hide-cursor" data-cursor="Drag" data-background="assets/img/contact/thumb-2.jpg">
+                                          <h4 class="fs-30 ls-m-3 tp-text-common-white mb-10">31 Winding Creek Road,<br> New York, USA</h4>
+                                          <span class="fw-600 fs-14 ls-m-2 tp-text-common-white d-inline-block mb-20">Monday - Friday 10 a.m. - 6 p.m.</span>
+                                          <div class="tp-contact-office-email d-flex align-items-center">
+                                             <span class="tp-text-common-white fw-700 fs-12 text-uppercase">OFFICE EMAIL</span>
+                                             <span class="tp-contact-email-border"></span>
+                                             <span>
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                       <div class="tp-contact-slider-thumb tp-round-4 p-relative bg-position not-hide-cursor" data-cursor="Drag" data-background="assets/img/contact/thumb-3.jpg">
+                                          <h4 class="fs-30 ls-m-3 tp-text-common-white mb-10">31 Winding Creek Road,<br> New York, USA</h4>
+                                          <span class="fw-600 fs-14 ls-m-2 tp-text-common-white d-inline-block mb-20">Monday - Friday 10 a.m. - 6 p.m.</span>
+                                          <div class="tp-contact-office-email d-flex align-items-center">
+                                             <span class="tp-text-common-white fw-700 fs-12 text-uppercase">OFFICE EMAIL</span>
+                                             <span class="tp-contact-email-border"></span>
+                                             <span>
+                                                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                   <path d="M2.24434 7.95965C1.58072 6.80251 1.26029 5.85764 1.06709 4.89985C0.781336 3.4833 1.43527 2.09956 2.51857 1.21663C2.97641 0.843468 3.50126 0.970963 3.772 1.45668L4.38323 2.55324C4.8677 3.4224 5.10994 3.85698 5.06189 4.31771C5.01385 4.77845 4.68716 5.1537 4.03378 5.9042L2.24434 7.95965ZM2.24434 7.95965C3.58755 10.3018 5.69549 12.4109 8.04035 13.7557M8.04035 13.7557C9.19749 14.4193 10.1424 14.7397 11.1002 14.9329C12.5167 15.2187 13.9004 14.5647 14.7834 13.4814C15.1565 13.0236 15.029 12.4987 14.5433 12.228L13.4468 11.6168C12.5776 11.1323 12.143 10.8901 11.6823 10.9381C11.2215 10.9862 10.8463 11.3128 10.0958 11.9662L8.04035 13.7557Z" stroke="white" stroke-width="1.5" stroke-linejoin="round" />
+                                                </svg>
+                                             </span>
+                                          </div>
+                                       </div>
+                                    </div>
                                  </div>
                               </div>
-                              <div class="tp-pricing-5-btn-wrap mb-50">
-                                 <a class="tp-pricing-5-btn mb-10 tp-text-common-white fw-500 fs-16 tp-bg-theme-primary d-block text-center tp-round-4 hover-bg-white hover-text-primary" href="contact.html">Choose your plan</a>
-                                 <a class="tp-pricing-5-btn btn-transparent tp-text-theme-primary fw-500 fs-16 hover-bg-secondary d-block text-center tp-round-4 hover-text-primary" href="contact.html">Chat to sale</a>
-                              </div>
-                              <div class="tp-pricing-5-list mb-40">
-                                 <ul>
-                                    <li><i class="fa-regular fa-check"></i> Assessment & strategy consultation</li>
-                                    <li><i class="fa-regular fa-check"></i> Email & collaboration tools setup</li>
-                                    <li><i class="fa-regular fa-check"></i> Hardware recommendations</li>
-                                    <li><i class="fa-regular fa-check"></i> Cloud computing advisory</li>
-                                    <li><i class="fa-regular fa-check"></i> Basic cybersecurity audit</li>
-                                 </ul>
-                              </div>
-                              <div class="tp-pricing-5-btn-bottom">
-                                 <a href="#" class="d-flex justify-content-between align-items-center fw-500 fs-16 tp-text-theme-primary">
-                                    Access full details PDF
-                                    <i class="fa-sharp fa-regular fa-arrow-right"></i>
-                                 </a>
+                              <div class="tp-contact-navigation">
+                                 <span class="tp-contact-prev mr-5">
+                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M13 7H1" stroke="#1F3130" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                       <path d="M7 1L1 7L7 13" stroke="#1F3130" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                 </span>
+                                 <span class="tp-contact-next">
+                                    <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                       <path d="M1 7H13" stroke="#1F3130" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                       <path d="M7 1L13 7L7 13" stroke="#1F3130" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                 </span>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
-               <!-- tp-pricing-area-end -->
+               <!-- tp-contact-area-end -->
 
-               <!-- tp-cta-area-start -->
-               <div class="tp-cta-area anim-zoomin-wrap p-relative pt-135 pb-120">
-                  <div class="tp-gsap-image-position anim-zoomin fix">
-                     <img class="tp-gsap-image-cover" src="assets/img/cta/bg-6.jpg" alt="">
-                  </div>
+               <!-- tp-contact-form-area-start -->
+               <div class="tp-contact-form-area pt-130 pb-110">
                   <div class="container">
                      <div class="row">
-                        <div class="col-xl-7 col-lg-9">
-                           <div class="tp-cta-3-title-wrap mr-100">
-                              <h2 class="mb-15 fs-xl-40 fs-sm-36 text-anim">Let’s join hands and make it happen with  <span class="text-italic fw-400 tp-ff-heading">the team!</span> </h2>
-                              <p class="mb-40">Success is never a solo journey—it’s a collective effort driven by teamwork,<br>
-                                 collaboration, and shared vision. When we come together.</p>
-                              <div class="tp-cta-6-btn d-flex align-items-center">
-                                 <a href="contact.html" class="tp-btn-xl mb-20 mr-20 d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
-                                    <span class="d-flex align-items-center justify-content-center">
-                                       <span class="btn-text"> Schedule a free consultant</span>
-                                       <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                       <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                    </span> 
-                                 </a>
-                                 <div class="tp-cta-6-call mb-20">
-                                    <span class="icon mr-15">
-                                       <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                          <path d="M13.2811 17.9971C7.18994 18.2031 -3.78322 7.31835 1.31157 1.41675L2.17306 0.667624C2.60914 0.246066 3.19368 0.0131721 3.80018 0.0193408C4.40667 0.0255096 4.98635 0.270245 5.41377 0.700585C5.43687 0.724111 5.45839 0.749136 5.47819 0.775498L6.82662 2.5277C7.2364 2.96132 7.46409 3.5357 7.4627 4.13232C7.46131 4.72894 7.23093 5.30225 6.81912 5.73395L5.95164 6.82468C6.43192 7.99112 7.13782 9.05123 8.02883 9.94417C8.91984 10.8371 9.97842 11.5453 11.1438 12.0281L12.2405 11.1554C12.6778 10.7537 13.2498 10.5305 13.8435 10.5296C14.4373 10.5288 15.0098 10.7505 15.4483 11.1509L17.2012 12.4993C17.2274 12.519 17.2524 12.5403 17.2761 12.563C17.7084 12.9993 17.951 13.5886 17.951 14.2028C17.951 14.817 17.7084 15.4063 17.2761 15.8426L16.5937 16.6292C16.1608 17.0668 15.6447 17.4133 15.0757 17.6483C14.5068 17.8832 13.8966 18.0018 13.2811 17.9971ZM3.77394 1.51638C3.66628 1.5163 3.55967 1.53743 3.46018 1.57856C3.36069 1.61969 3.27028 1.68002 3.19412 1.7561L2.33187 2.50523C-1.89768 7.59028 11.0449 19.8122 15.497 15.6059L16.1802 14.8186C16.2614 14.7463 16.3275 14.6587 16.3747 14.5607C16.4219 14.4628 16.4492 14.3565 16.4551 14.2479C16.4611 14.1393 16.4454 14.0307 16.4092 13.9282C16.3729 13.8257 16.3167 13.7314 16.2438 13.6507L14.5006 12.312C14.4739 12.2924 14.4489 12.2706 14.4257 12.2468C14.2694 12.0979 14.0618 12.0148 13.8459 12.0148C13.63 12.0148 13.4224 12.0979 13.2661 12.2468C13.2462 12.267 13.2252 12.286 13.2032 12.3038L11.7364 13.4724C11.6345 13.5535 11.5134 13.6066 11.3848 13.6265C11.2562 13.6465 11.1246 13.6326 11.003 13.5863C9.49284 13.0237 8.12126 12.1431 6.98116 11.0042C5.84106 9.86524 4.95908 8.49455 4.39496 6.98499C4.34502 6.86166 4.32883 6.72726 4.34805 6.59559C4.36727 6.46393 4.42122 6.33977 4.50433 6.23587L5.66847 4.77058C5.68579 4.74838 5.70456 4.72736 5.72466 4.70765C5.87768 4.55332 5.96353 4.34479 5.96353 4.12745C5.96353 3.91012 5.87768 3.70159 5.72466 3.54726C5.70131 3.52396 5.67977 3.49892 5.66023 3.47235L4.32454 1.73138C4.17362 1.59502 3.97734 1.51971 3.77394 1.52013V1.51638ZM16.8784 9.43912C20.6165 3.9368 14.0317 -2.64126 8.53537 1.09612C8.45248 1.15146 8.38147 1.22278 8.32649 1.30591C8.27152 1.38904 8.23368 1.4823 8.2152 1.58024C8.19672 1.67817 8.19797 1.77881 8.21887 1.87625C8.23977 1.9737 8.27991 2.06599 8.33692 2.14773C8.39394 2.22947 8.4667 2.29902 8.55093 2.35228C8.63516 2.40555 8.72918 2.44148 8.82747 2.45796C8.92576 2.47444 9.02635 2.47114 9.12335 2.44825C9.22035 2.42537 9.3118 2.38336 9.39236 2.32469C13.4931 -0.491272 18.4642 4.48516 15.6498 8.58287C15.5898 8.66336 15.5467 8.75508 15.5229 8.85257C15.4991 8.95006 15.4951 9.05134 15.5112 9.1504C15.5273 9.24946 15.5631 9.34428 15.6165 9.42923C15.67 9.51417 15.7399 9.58751 15.8223 9.6449C15.9046 9.70228 15.9976 9.74254 16.0958 9.76327C16.194 9.78401 16.2954 9.7848 16.3939 9.76561C16.4924 9.74641 16.586 9.70762 16.6693 9.65154C16.7525 9.59545 16.8236 9.52322 16.8784 9.43912ZM13.9882 8.042C14.1287 7.90152 14.2076 7.71101 14.2076 7.51237C14.2076 7.31373 14.1287 7.12322 13.9882 6.98274L12.7102 5.70399V3.76375C12.7102 3.56507 12.6313 3.37453 12.4908 3.23404C12.3503 3.09356 12.1598 3.01463 11.9611 3.01463C11.7624 3.01463 11.5719 3.09356 11.4314 3.23404C11.2909 3.37453 11.212 3.56507 11.212 3.76375V6.01113C11.212 6.20979 11.291 6.4003 11.4315 6.54076L12.9297 8.03901C13.0702 8.17945 13.2607 8.25834 13.4594 8.25834C13.658 8.25834 13.8485 8.17945 13.989 8.03901L13.9882 8.042Z" fill="#1F3130" />
-                                       </svg>
-                                    </span>
-                                    <a href="tel:+9992131432659">+999 21314 32659</a>
-                                 </div>
+                        <div class="col-lg-4">
+                           <div class="mb-30">
+                              <h2 class="mb-20 fs-40 fs-xl-35 fs-sm-30 pb-60 text-anim">We love to hear<br> from <span class="text-italic fw-400 tp-ff-heading">you</span></h2>
+                              <div class="tp-contact-bottom-social">
+                                 <ul class="d-flex align-items-center">
+                                    <li>
+                                       <a href="#">
+                                          <i class="fa-brands fa-facebook-f"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="#">
+                                          <i class="fa-brands fa-instagram"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="#">
+                                          <i class="fa-brands fa-linkedin-in"></i>
+                                       </a>
+                                    </li>
+                                    <li>
+                                       <a href="#">
+                                          <i class="fa-brands fa-vimeo-v"></i>
+                                       </a>
+                                    </li>
+                                 </ul>
                               </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-8">
+                           <div class="tp-join-form-wra tp-contact-inner-wrap mb-30">
+                              <form id="contact-form" action="assets/mail.php" method="POST">
+                                 <input class="tp-input mb-15" name="name" type="text" placeholder="Your full name*">
+                                 <input class="tp-input mb-15" name="email" type="text" placeholder="Email address*">
+                                 <input class="tp-input mb-15" name="website" type="text" placeholder="Your website*">
+                                 <textarea name="message" class="tp-textarea tp-input mb-10" placeholder="How can we help? Fell free to write here"></textarea>
+                                 <button type="submit" class="tp-btn-xl tp-round-4 fs-16 tp-bg-theme-primary w-100  d-block tp-text-common-white hover-text-white fw-500">Send your message</button>
+                                 <p class="ajax-response mt-20"></p>
+                              </form>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
-               <!-- tp-cta-area-end -->
+               <!-- tp-contact-form-area-end -->
+
+               <!-- map area start  -->
+               <div class="tp-map-area fix lh-1">
+                  <div class="tp-contact-map-box">
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1510540.0480819119!2d42.0385954955818!3d42.31536428549862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40440cd7e64f626b%3A0x4f907964122d4ac2!2sGeorgia!5e0!3m2!1sen!2sbd!4v1714619203308!5m2!1sen!2sbd" height="535" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  </div>
+               </div>
+               <!-- map area end  -->
 
             </main>
 
@@ -886,7 +940,7 @@
                         <div class="row">
                            <div class="col-lg-4 col-md-6 col-sm-6">
                               <div class="tp-footer-widget tp-footer-3-widget mb-40 mr-10">
-                                 <a class="mb-30 d-inline-block" href="index.html"><img data-width="168" src="assets/img/logo/logo-white.png" alt=""></a>
+                                 <a class="mb-30 d-inline-block" href="index.php"><img data-width="168" src="assets/img/logo/logo-white.png" alt=""></a>
                                  <p class="tp-text-grey-3 mb-30">A startup vision summary should be a concise
                                     statement that captures the essence of your
                                     company’s long-term goal</p>
@@ -931,11 +985,11 @@
                                  <h5 class="fw-500 fs-24 tp-text-common-white mb-25">Useful links</h5>
                                  <div class="tp-footer-menu">
                                     <ul>
-                                       <li><a href="about.html">About us</a></li>
+                                       <li><a href="about.php">About us</a></li>
                                        <li><a href="#">Our consultants</a></li>
-                                       <li><a href="service.html">Our Services</a></li>
+                                       <li><a href="service.php">Our Services</a></li>
                                        <li><a href="#">Case studies</a></li>
-                                       <li><a href="contact.html">Contact us</a></li>
+                                       <li><a href="contact.php">Contact us</a></li>
                                     </ul>
                                  </div>
                               </div>
@@ -986,28 +1040,27 @@
                <!-- tp-footer area end -->
             </footer>
 
-
          </div>
       </div>
 
-      <!-- JS here -->
-      <script src="assets/js/vendor/jquery.js"></script>
-      <script src="assets/js/bootstrap-bundle.js"></script>
-      <script src="assets/js/plugin.js"></script>
-      <script src="assets/js/swiper-bundle.js"></script>
-      <script src="assets/js/magnific-popup.js"></script>
-      <script src="assets/js/nice-select.js"></script>
-      <script src="assets/js/purecounter.js"></script>
-      <script src="assets/js/wow.js"></script>
-      <script src="assets/js/isotope-pkgd.js"></script>
-      <script src="assets/js/imagesloaded-pkgd.js"></script>
-      <script src="assets/js/ajax-form.js"></script>
-      <script src="assets/js/jarallax.js"></script>
-      <script src="assets/js/parallax.js"></script>
-      <script src="assets/js/parallax-scrool.js"></script>
-      <script src="assets/js/slider-init.js"></script>
-      <script src="assets/js/main.js"></script>
-      <script src="assets/js/tp-cursor.js"></script>
+     <!-- JS here -->
+     <script src="assets/js/vendor/jquery.js"></script>
+     <script src="assets/js/bootstrap-bundle.js"></script>
+     <script src="assets/js/plugin.js"></script>
+     <script src="assets/js/swiper-bundle.js"></script>
+     <script src="assets/js/magnific-popup.js"></script>
+     <script src="assets/js/nice-select.js"></script>
+     <script src="assets/js/purecounter.js"></script>
+     <script src="assets/js/wow.js"></script>
+     <script src="assets/js/isotope-pkgd.js"></script>
+     <script src="assets/js/imagesloaded-pkgd.js"></script>
+     <script src="assets/js/ajax-form.js"></script>
+     <script src="assets/js/jarallax.js"></script>
+     <script src="assets/js/parallax.js"></script>
+     <script src="assets/js/parallax-scrool.js"></script>
+     <script src="assets/js/slider-init.js"></script>
+     <script src="assets/js/main.js"></script>
+     <script src="assets/js/tp-cursor.js"></script>
    </body>
 
 </html>

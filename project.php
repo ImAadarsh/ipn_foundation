@@ -57,7 +57,7 @@
                <button class="close-btn"><i class="fal fa-times"></i></button>
             </div>
             <div class="tpoffcanvas__logo">
-               <a href="index.html">
+               <a href="index.php">
                   <img data-width="140" src="assets/img/logo/logo-black.png" alt="logo">
                </a>
             </div>
@@ -142,7 +142,7 @@
                <nav></nav>
             </div>
             <div class="tpoffcanvas-btn-1 mb-50">
-               <a class="tpoffcanvas-btn" href="contact.html">Get Started</a>
+               <a class="tpoffcanvas-btn" href="contact.php">Get Started</a>
             </div>
             <div class="tpoffcanvas__contact-info">
                <div class="tpoffcanvas__contact-title">
@@ -217,7 +217,7 @@
                <div class="col-lg-12">
                   <div class="tp-search-top d-flex justify-content-between align-items-center">
                      <div class="cm-search-logo">
-                        <a href="index.html"><img data-width="160" src="assets/img/logo/logo-black.png" alt="logo"></a>
+                        <a href="index.php"><img data-width="160" src="assets/img/logo/logo-black.png" alt="logo"></a>
                      </div>
                      <button class="tp-search-close">
                         <i class="fa-light fa-xmark"></i>
@@ -306,7 +306,7 @@
                      <div class="col-xl-2 col-sm-3 col-5">
                         <div class="tp-header-left">
                            <div class="tp-header-logo">
-                              <a href="index.html"><img data-width="168" src="assets/img/logo/logo-black.png" alt=""></a>
+                              <a href="index.php"><img data-width="168" src="assets/img/logo/logo-black.png" alt=""></a>
                            </div>
                         </div>
                      </div>
@@ -316,7 +316,7 @@
                               <nav class="tp-mobile-menu-active">
                                  <ul>
                                     <li class="has-dropdown p-inherit">
-                                       <a href="index.html">Home</a>
+                                       <a href="index.php">Home</a>
                                        <div class="tp-submenu submenu tp-main-mega-menu">
                                           <div class="tp-menu-fullwidth">
                                              <div class="tp-homemenu-wrapper">
@@ -324,11 +324,11 @@
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="index.html"><img src="assets/img/menu/demo.jpg" alt=""></a>
+                                                            <a href="index.php"><img src="assets/img/menu/demo.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="index.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="index.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -337,7 +337,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="index-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="index-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -349,18 +349,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="index.html">Business</a>
+                                                            <a href="index.php">Business</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-consulting.html"><img src="assets/img/menu/demo-2.jpg" alt=""></a>
+                                                            <a href="home-consulting.php"><img src="assets/img/menu/demo-2.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-consulting.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-consulting.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -369,7 +369,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-consulting-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-consulting-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -381,18 +381,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-consulting.html">Consulting</a>
+                                                            <a href="home-consulting.php">Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-startup.html"><img src="assets/img/menu/demo-3.jpg" alt=""></a>
+                                                            <a href="home-startup.php"><img src="assets/img/menu/demo-3.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-startup.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-startup.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -401,7 +401,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-startup-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-startup-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -413,18 +413,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-startup.html">Startup Consulting</a>
+                                                            <a href="home-startup.php">Startup Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-hr.html"><img src="assets/img/menu/demo-4.jpg" alt=""></a>
+                                                            <a href="home-hr.php"><img src="assets/img/menu/demo-4.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-hr.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-hr.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -433,7 +433,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-hr-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-hr-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -445,18 +445,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-hr.html">HR Consulting</a>
+                                                            <a href="home-hr.php">HR Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-it.html"><img src="assets/img/menu/demo-5.jpg" alt=""></a>
+                                                            <a href="home-it.php"><img src="assets/img/menu/demo-5.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-it.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-it.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -465,7 +465,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-it-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-it-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -477,18 +477,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-it.html">IT Consulting</a>
+                                                            <a href="home-it.php">IT Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-corporate.html"><img  src="assets/img/menu/demo-6.jpg" alt=""></a>
+                                                            <a href="home-corporate.php"><img  src="assets/img/menu/demo-6.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-corporate.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-corporate.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -497,7 +497,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-corporate-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-corporate-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -509,18 +509,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-corporate.html">Corporate Consulting</a>
+                                                            <a href="home-corporate.php">Corporate Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-banking.html"><img src="assets/img/menu/demo-7.jpg" alt=""></a>
+                                                            <a href="home-banking.php"><img src="assets/img/menu/demo-7.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-banking.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-banking.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -529,7 +529,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-banking-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-banking-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -541,18 +541,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-banking.html">Banking Consulting</a>
+                                                            <a href="home-banking.php">Banking Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-financial.html"><img src="assets/img/menu/demo-8.jpg" alt=""></a>
+                                                            <a href="home-financial.php"><img src="assets/img/menu/demo-8.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-financial.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-financial.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -561,7 +561,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-financial-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-financial-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -573,7 +573,7 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-financial.html">Financial Advisor</a>
+                                                            <a href="home-financial.php">Financial Advisor</a>
                                                          </h4>
                                                       </div>
                                                    </div>
@@ -609,34 +609,34 @@
                                     <li class="has-dropdown">
                                        <a href="#">Pages</a>
                                        <ul class="tp-submenu submenu">
-                                          <li><a href="team.html">Team</a></li>
-                                          <li><a href="team-details.html">Team Details</a></li>
-                                          <li><a href="pricing.html">Pricing</a></li>
-                                          <li><a href="service.html">Services</a></li>
-                                          <li><a href="service-details.html">Services Details</a></li>
-                                          <li><a href="faq.html">Faq</a></li>
-                                          <li><a href="error.html">Error</a></li>
-                                          <li><a href="testimonial.html">Testimonial</a></li>
-                                          <li><a href="comeing-soon.html">Comeing Soon</a></li>
+                                          <li><a href="team.php">Team</a></li>
+                                          <li><a href="team-details.php">Team Details</a></li>
+                                          <li><a href="pricing.php">Pricing</a></li>
+                                          <li><a href="service.php">Services</a></li>
+                                          <li><a href="service-details.php">Services Details</a></li>
+                                          <li><a href="faq.php">Faq</a></li>
+                                          <li><a href="error.php">Error</a></li>
+                                          <li><a href="testimonial.php">Testimonial</a></li>
+                                          <li><a href="comeing-soon.php">Comeing Soon</a></li>
                                        </ul>
                                     </li>
-                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="about.php">About</a></li>
                                     <li class="has-dropdown">
-                                       <a href="project.html">Portfolio</a>
+                                       <a href="project.php">Portfolio</a>
                                        <ul class="tp-submenu submenu">
-                                          <li><a href="project.html">Portfolio</a></li>
-                                          <li><a href="project-details.html">Portfolio Details</a></li>
+                                          <li><a href="project.php">Portfolio</a></li>
+                                          <li><a href="project-details.php">Portfolio Details</a></li>
                                        </ul>
                                     </li>
                                     <li class="has-dropdown">
-                                       <a href="blog.html">Blog</a>
+                                       <a href="blog.php">Blog</a>
                                        <ul class="tp-submenu submenu">
-                                          <li><a href="blog.html">Blog</a></li>
-                                          <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                          <li><a href="blog-details.html">Blog Details</a></li>
+                                          <li><a href="blog.php">Blog</a></li>
+                                          <li><a href="blog-sidebar.php">Blog Sidebar</a></li>
+                                          <li><a href="blog-details.php">Blog Details</a></li>
                                        </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                  </ul>
                               </nav>
                            </div>
@@ -650,7 +650,7 @@
                                  </button>
                               </div>
                               <div class="tp-header-2-btn ml-10 d-none d-md-inline-block">
-                                 <a href="contact.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                 <a href="contact.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
                                        <span class="btn-text">Get in touch </span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -694,7 +694,7 @@
                            <h2 class="tp-breadcrumb-title fw-600 fs-60 fs-xs-40 ls-m-3 tp-text-common-white lh-1 text-anim">Our Projects</h2>
                            <div class="tp-breadcrumb-dvdr">
                               <ul>
-                                 <li><a href="index.html">Main Home</a></li>
+                                 <li><a href="index.php">Main Home</a></li>
                                  <li class="dvdr">/</li>
                                  <li>Our Projects</li>
                               </ul>
@@ -754,10 +754,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Investment reporting</a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Investment reporting</a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -773,10 +773,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-2.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -792,10 +792,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-3.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Partnership System </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Partnership System </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -811,10 +811,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-4.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -830,10 +830,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Business Development </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Business Development </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -849,10 +849,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -868,10 +868,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -887,10 +887,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Transformed Its Pricing </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -906,10 +906,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Private trust management </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -929,10 +929,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-4.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -948,10 +948,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Business Development </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Business Development </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -967,10 +967,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -986,10 +986,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1005,10 +1005,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Transformed Its Pricing </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1024,10 +1024,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Private trust management </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1047,10 +1047,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Investment reporting</a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Investment reporting</a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1066,10 +1066,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-2.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1085,10 +1085,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-3.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Partnership System </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Partnership System </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1104,10 +1104,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1123,10 +1123,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Transformed Its Pricing </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1142,10 +1142,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Private trust management </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1165,10 +1165,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-3.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Partnership System </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Partnership System </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1184,10 +1184,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-4.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1203,10 +1203,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Business Development </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Business Development </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1222,10 +1222,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1241,10 +1241,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1260,10 +1260,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Transformed Its Pricing </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1279,10 +1279,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Private trust management </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1302,10 +1302,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Investment reporting</a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Investment reporting</a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1321,10 +1321,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-2.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1340,10 +1340,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Business Development </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Business Development </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1359,10 +1359,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1378,10 +1378,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1397,10 +1397,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Transformed Its Pricing </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1416,10 +1416,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Private trust management </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1439,10 +1439,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Investment reporting</a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Investment reporting</a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1458,10 +1458,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-4.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1477,10 +1477,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black">Business Development </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Business Development </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1496,10 +1496,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Integrated Innovations </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                             <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
                                                    <span class="btn-text"> Learn more</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1515,10 +1515,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Differentiated Performance </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1534,10 +1534,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Transformed Its Pricing </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1553,10 +1553,10 @@
                                           <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.html" class="underline-black"> Private trust management </a></h4>
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
                                           <p class="tp-text-grey-1 mb-15">This year is significant because it provides
                                              insight into the history and experience </p>
-                                          <a href="project-details.html" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1589,7 +1589,7 @@
                         <p class="mb-40">Success is never a solo journey—it’s a collective effort driven by teamwork,<br>
                            collaboration, and shared vision. When we come together.</p>
                         <div class="tp-cta-6-btn d-flex align-items-center">
-                           <a href="contact.html" class="tp-btn-xl mb-20 mr-20 d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                           <a href="contact.php" class="tp-btn-xl mb-20 mr-20 d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                               <span class="d-flex align-items-center justify-content-center">
                                  <span class="btn-text"> Schedule a free consultant</span>
                                  <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1657,7 +1657,7 @@
                      <div class="row">
                         <div class="col-lg-4 col-md-6 col-sm-6">
                            <div class="tp-footer-widget tp-footer-3-widget mb-40 mr-10">
-                              <a class="mb-30 d-inline-block" href="index.html"><img data-width="168" src="assets/img/logo/logo-white.png" alt=""></a>
+                              <a class="mb-30 d-inline-block" href="index.php"><img data-width="168" src="assets/img/logo/logo-white.png" alt=""></a>
                               <p class="tp-text-grey-3 mb-30">A startup vision summary should be a concise
                                  statement that captures the essence of your
                                  company’s long-term goal</p>
@@ -1702,11 +1702,11 @@
                               <h5 class="fw-500 fs-24 tp-text-common-white mb-25">Useful links</h5>
                            <div class="tp-footer-menu">
                               <ul>
-                                 <li><a href="about.html">About us</a></li>
+                                 <li><a href="about.php">About us</a></li>
                                  <li><a href="#">Our consultants</a></li>
-                                 <li><a href="service.html">Our Services</a></li>
+                                 <li><a href="service.php">Our Services</a></li>
                                  <li><a href="#">Case studies</a></li>
-                                 <li><a href="contact.html">Contact us</a></li>
+                                 <li><a href="contact.php">Contact us</a></li>
                               </ul>
                            </div>
                         </div>

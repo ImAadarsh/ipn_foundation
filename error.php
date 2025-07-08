@@ -33,45 +33,33 @@
       </div>
       <!-- Preloader End -->
 
-
       <main>
-         <!-- tp-comeing-soon-area-start -->
-         <div class="tp-comeingsoon-wrap bg-position" data-background="assets/img/comeing-soon/bg.jpg">
+         <!-- tp-error-area-start -->
+         <div class="tp-error-bg-wrap bg-position" data-background="assets/img/error/bg.jpg">
             <div class="container">
                <div class="row">
                   <div class="col-12">
-                     <div class="tp-comeingsoon-wrap">
-                        <div class="tp-comeingsoon-content text-center">
-                           <h2 class="tp-comeingsoon-title tp-text-common-white fw-600 ls-m-3 mb-50">Coming soon!</h2>
-                           <p class="tp-comeingsoon-para tp-text-grey-3 mb-80">We had a Master class session with budgeto. From the outset and initial contact with<br>
-                              budgeto we found her to be incredibly responsive and  personable.</p>
-                           <div class="tp-comeingsoon-countdown mb-40">
-                              <ul class="deal-counter" id="timer">
-                                 <li class="list-inline-item days"></li>
-                                 <li class="list-inline-item hours"></li>
-                                 <li class="list-inline-item minutes"></li>
-                                 <li class="list-inline-item seconds"></li>
-                              </ul>
-                           </div>
-                           <div class="tp-comeingsoon-form">
-                              <form action="#">
-                                 <input class="mb-20" type="text" placeholder="Your email address">
-                                 <button type="submit" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 mb-20 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
-                                    <span class="d-flex align-items-center justify-content-center">
-                                       <span class="btn-text">Subscribe</span>
-                                       <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                       <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                    </span> 
-                                 </button>
-                              </form>
-                           </div>
+                     <div class="tp-error-wrap">
+                        <div class="tp-error-text text-center">
+                           <h2 class="tp-error-title">404</h2>
+                           <h4 class="tp-error-subtitle tp-text-common-white fw-600 fs-80 ls-m-3 mb-40">Page not found</h4>
+                           <a href="index.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                              <span class="d-flex align-items-center justify-content-center">
+                                 <span class="btn-text">Back to homepage</span>
+                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                              </span> 
+                           </a>
+                        </div>
+                        <div class="tp-error-copyright-text text-center">
+                           <p class="mb-0">© 2025 <a href="#" class="tp-text-common-white"> budgeto.</a> All Rights Reserved.</p>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
          </div>
-         <!-- tp-comeing-soon-area-end -->
+         <!-- tp-error-area-end -->
       </main>
 
 

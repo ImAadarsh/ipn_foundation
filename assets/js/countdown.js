@@ -28,7 +28,7 @@
         constructor: Countdown,
 
         init: function () {
-            var content = this.$element.html(),
+            var content = this.$element.php(),
                 date = new Date(this.defaults.date || content);
 
             if (date.getTime()) {
@@ -147,7 +147,7 @@
             this.$minutes = null;
             this.$seconds = null;
 
-            this.$element.empty().html(this.content);
+            this.$element.empty().php(this.content);
             this.$element.removeData("data-countdown");
         },
 
@@ -188,7 +188,7 @@
 
         output: function (type) {
             if (!this.found) {
-                this.$element.empty().html(this.template());
+                this.$element.empty().php(this.template());
                 return;
             }
 

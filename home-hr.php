@@ -57,7 +57,7 @@
                <button class="close-btn"><i class="fal fa-times"></i></button>
             </div>
             <div class="tpoffcanvas__logo">
-               <a href="index.html">
+               <a href="index.php">
                   <img data-width="140" src="assets/img/logo/logo-black.png" alt="logo">
                </a>
             </div>
@@ -142,7 +142,7 @@
                <nav></nav>
             </div>
             <div class="tpoffcanvas-btn-1 mb-50">
-               <a class="tpoffcanvas-btn" href="contact.html">Get Started</a>
+               <a class="tpoffcanvas-btn" href="contact.php">Get Started</a>
             </div>
             <div class="tpoffcanvas__contact-info">
                <div class="tpoffcanvas__contact-title">
@@ -217,7 +217,7 @@
                <div class="col-lg-12">
                   <div class="tp-search-top d-flex justify-content-between align-items-center">
                      <div class="cm-search-logo">
-                        <a href="index.html"><img data-width="160" src="assets/img/logo/logo-black.png" alt="logo"></a>
+                        <a href="index.php"><img data-width="160" src="assets/img/logo/logo-black.png" alt="logo"></a>
                      </div>
                      <button class="tp-search-close">
                         <i class="fa-light fa-xmark"></i>
@@ -306,7 +306,7 @@
                      <div class="col-xl-2 col-sm-3 col-5">
                         <div class="tp-header-left">
                            <div class="tp-header-logo">
-                              <a href="index.html"><img data-width="168" src="assets/img/logo/logo-black.png" alt=""></a>
+                              <a href="index.php"><img data-width="168" src="assets/img/logo/logo-black.png" alt=""></a>
                            </div>
                         </div>
                      </div>
@@ -314,9 +314,9 @@
                         <div class="tp-header-2-right d-flex align-items-center justify-content-end justify-content-xxl-between">
                            <div class="tp-main-menu d-none d-xl-block">
                               <nav class="tp-mobile-menu-active">
-                                 <ul class="tp-onepage-menu">
+                                 <ul>
                                     <li class="has-dropdown p-inherit">
-                                       <a href="index.html">Home</a>
+                                       <a href="index.php">Home</a>
                                        <div class="tp-submenu submenu tp-main-mega-menu">
                                           <div class="tp-menu-fullwidth">
                                              <div class="tp-homemenu-wrapper">
@@ -324,11 +324,11 @@
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="index.html"><img src="assets/img/menu/demo.jpg" alt=""></a>
+                                                            <a href="index.php"><img src="assets/img/menu/demo.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="index.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="index.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -337,7 +337,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="index-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="index-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -349,18 +349,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="index.html">Business</a>
+                                                            <a href="index.php">Business</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-consulting.html"><img src="assets/img/menu/demo-2.jpg" alt=""></a>
+                                                            <a href="home-consulting.php"><img src="assets/img/menu/demo-2.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-consulting.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-consulting.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -369,7 +369,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-consulting-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-consulting-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -381,18 +381,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-consulting.html">Consulting</a>
+                                                            <a href="home-consulting.php">Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-startup.html"><img src="assets/img/menu/demo-3.jpg" alt=""></a>
+                                                            <a href="home-startup.php"><img src="assets/img/menu/demo-3.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-startup.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-startup.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -401,7 +401,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-startup-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-startup-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -413,18 +413,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-startup.html">Startup Consulting</a>
+                                                            <a href="home-startup.php">Startup Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-hr.html"><img src="assets/img/menu/demo-4.jpg" alt=""></a>
+                                                            <a href="home-hr.php"><img src="assets/img/menu/demo-4.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-hr.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-hr.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -433,7 +433,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-hr-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-hr-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -445,18 +445,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-hr.html">HR Consulting</a>
+                                                            <a href="home-hr.php">HR Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-it.html"><img src="assets/img/menu/demo-5.jpg" alt=""></a>
+                                                            <a href="home-it.php"><img src="assets/img/menu/demo-5.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-it.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-it.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -465,7 +465,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-it-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-it-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -477,18 +477,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-it.html">IT Consulting</a>
+                                                            <a href="home-it.php">IT Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-corporate.html"><img  src="assets/img/menu/demo-6.jpg" alt=""></a>
+                                                            <a href="home-corporate.php"><img  src="assets/img/menu/demo-6.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-corporate.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-corporate.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -497,7 +497,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-corporate-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-corporate-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -509,18 +509,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-corporate.html">Corporate Consulting</a>
+                                                            <a href="home-corporate.php">Corporate Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-banking.html"><img src="assets/img/menu/demo-7.jpg" alt=""></a>
+                                                            <a href="home-banking.php"><img src="assets/img/menu/demo-7.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-banking.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-banking.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -529,7 +529,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-banking-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-banking-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -541,18 +541,18 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-banking.html">Banking Consulting</a>
+                                                            <a href="home-banking.php">Banking Consulting</a>
                                                          </h4>
                                                       </div>
                                                    </div>
                                                    <div class="col homemenu">
                                                       <div class="homemenu-thumb-wrap mb-20">
                                                          <div class="homemenu-thumb fix">
-                                                            <a href="home-financial.html"><img src="assets/img/menu/demo-8.jpg" alt=""></a>
+                                                            <a href="home-financial.php"><img src="assets/img/menu/demo-8.jpg" alt=""></a>
                                                          </div>
                                                          <div class="homemenu-btn">
                                                             <div class="mb-10">
-                                                               <a href="home-financial.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                                               <a href="home-financial.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">Multi Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -561,7 +561,7 @@
                                                                </a>
                                                             </div>
                                                             <div>
-                                                               <a href="home-financial-one-page.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                                               <a href="home-financial-one-page.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                                                   <span class="d-flex align-items-center justify-content-center">
                                                                      <span class="btn-text">One Page</span>
                                                                      <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -573,7 +573,7 @@
                                                       </div>
                                                       <div class="homemenu-content text-center">
                                                          <h4 class="homemenu-title">
-                                                            <a href="home-financial.html">Financial Advisor</a>
+                                                            <a href="home-financial.php">Financial Advisor</a>
                                                          </h4>
                                                       </div>
                                                    </div>
@@ -606,11 +606,37 @@
                                           </div>
                                        </div> 
                                     </li>
-                                    <li><a href="#about">About</a></li>
-                                    <li><a href="#service">Services</a></li>
-                                    <li> <a href="#portfolio">Portfolio</a></li>
-                                    <li><a href="#team">Team</a></li>
-                                    <li><a href="#blog">Blog</a></li>
+                                    <li class="has-dropdown">
+                                       <a href="#">Pages</a>
+                                       <ul class="tp-submenu submenu">
+                                          <li><a href="team.php">Team</a></li>
+                                          <li><a href="team-details.php">Team Details</a></li>
+                                          <li><a href="pricing.php">Pricing</a></li>
+                                          <li><a href="service.php">Services</a></li>
+                                          <li><a href="service-details.php">Services Details</a></li>
+                                          <li><a href="faq.php">Faq</a></li>
+                                          <li><a href="error.php">Error</a></li>
+                                          <li><a href="testimonial.php">Testimonial</a></li>
+                                          <li><a href="comeing-soon.php">Comeing Soon</a></li>
+                                       </ul>
+                                    </li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li class="has-dropdown">
+                                       <a href="project.php">Portfolio</a>
+                                       <ul class="tp-submenu submenu">
+                                          <li><a href="project.php">Portfolio</a></li>
+                                          <li><a href="project-details.php">Portfolio Details</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="has-dropdown">
+                                       <a href="blog.php">Blog</a>
+                                       <ul class="tp-submenu submenu">
+                                          <li><a href="blog.php">Blog</a></li>
+                                          <li><a href="blog-sidebar.php">Blog Sidebar</a></li>
+                                          <li><a href="blog-details.php">Blog Details</a></li>
+                                       </ul>
+                                    </li>
+                                    <li><a href="contact.php">Contact</a></li>
                                  </ul>
                               </nav>
                            </div>
@@ -624,7 +650,7 @@
                                  </button>
                               </div>
                               <div class="tp-header-2-btn ml-10 d-none d-md-inline-block">
-                                 <a href="contact.html" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
+                                 <a href="contact.php" class="tp-btn-lg d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
                                        <span class="btn-text">HR Consulting </span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -712,7 +738,7 @@
                                        <path d="M29.2718 14.8625C26.4202 14.8625 24.1 12.5424 24.1 9.69066V0H5.17191C2.32012 0 0 2.32012 0 5.17191V42.8281C0 45.6799 2.32012 48 5.17181 48H33.7907C36.6425 48 38.9625 45.6799 38.9625 42.8281V14.8625H29.2718ZM6.02513 7.43128C6.02513 6.65466 6.65466 6.02503 7.43138 6.02503H16.4687C17.2454 6.02503 17.8749 6.65466 17.8749 7.43128V16.4687C17.8749 17.2453 17.2454 17.8749 16.4687 17.8749H7.43138C6.65466 17.8749 6.02513 17.2453 6.02513 16.4687V7.43128ZM7.43138 21.0876H25.5063C26.283 21.0876 26.9125 21.7172 26.9125 22.4938C26.9125 23.2704 26.283 23.9001 25.5063 23.9001H7.43138C6.65466 23.9001 6.02513 23.2704 6.02513 22.4938C6.02513 21.7171 6.65466 21.0876 7.43138 21.0876ZM31.5313 41.9749H7.43138C6.65466 41.9749 6.02513 41.3452 6.02513 40.5686C6.02513 39.792 6.65466 39.1624 7.43138 39.1624H31.5313C32.3078 39.1624 32.9376 39.792 32.9376 40.5686C32.9376 41.3453 32.3078 41.9749 31.5313 41.9749ZM31.5313 35.95H7.43138C6.65466 35.95 6.02513 35.3204 6.02513 34.5438C6.02513 33.7672 6.65466 33.1375 7.43138 33.1375H31.5313C32.3078 33.1375 32.9376 33.7672 32.9376 34.5438C32.9376 35.3204 32.3078 35.95 31.5313 35.95ZM31.5313 29.9249H7.43138C6.65466 29.9249 6.02513 29.2953 6.02513 28.5187C6.02513 27.742 6.65466 27.1124 7.43138 27.1124H31.5313C32.3078 27.1124 32.9376 27.742 32.9376 28.5187C32.9376 29.2953 32.3078 29.9249 31.5313 29.9249Z" fill="black" />
                                     </svg>
                                  </span>
-                                 <a class="icon-2 d-inline-block rounded-circle text-center" href="contact.html">
+                                 <a class="icon-2 d-inline-block rounded-circle text-center" href="contact.php">
                                     <svg width="15" height="12" viewBox="0 0 15 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M8.33337 1L13.5 6.00004L8.33337 11" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                                        <path d="M1 5.99878H13.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -736,7 +762,7 @@
                                        <path d="M31.3318 0H6.99249C3.1367 0 0 3.13723 0 6.99249V41.0075C0 44.8633 3.13723 48 6.99249 48H13.5278H13.618C14.5264 48 15.3634 47.41 15.6477 46.4941C15.9241 45.6016 15.5784 44.6638 14.863 44.1399C11.4708 41.4684 9.52585 37.4681 9.52585 33.1546C9.52585 25.4505 15.7939 19.1824 23.4986 19.1824C27.8051 19.1824 31.8076 21.1247 34.4786 24.5105C34.6232 24.694 34.8344 24.877 35.0307 25.004C35.6863 25.4286 36.5233 25.4606 37.2099 25.0877C37.897 24.7143 38.3248 23.9947 38.3248 23.2126V6.99302C38.3248 3.13723 35.1876 0 31.3318 0Z" fill="#1F3130" />
                                     </svg>
                                  </span>
-                                 <a class="icon-2 d-inline-block rounded-circle text-center" href="contact.html">
+                                 <a class="icon-2 d-inline-block rounded-circle text-center" href="contact.php">
                                     <svg width="15" height="12" viewBox="0 0 15 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M8.33337 1L13.5 6.00004L8.33337 11" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                                        <path d="M1 5.99878H13.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -773,7 +799,7 @@
                <!-- tp-join-area-end -->
 
                <!-- tp-about-area-start -->
-               <div id="about" class="tp-about-area pt-110 pb-110">
+               <div class="tp-about-area pt-110 pb-110">
                   <div class="container-fluid container-1690 p-relative">
                      <span class="tp-about-4-icon p-absolute mb-30 d-none d-lg-block wow zoomIn" data-wow-delay=".3s" data-wow-duration=".9s">
                         <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -830,7 +856,7 @@
                                     <li><i class="fa-sharp fa-solid fa-check"></i> HR software implementation (HRIS, ATS)</li>
                                  </ul>
                               </div>
-                              <a href="contact.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                              <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text"> Know more about us</span>
                                     <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -845,7 +871,7 @@
                <!-- tp-about-area-end -->
 
                <!-- tp-service-area-start -->
-               <div id="service" class="tp-service-area pb-10">
+               <div class="tp-service-area pb-10">
                   <div class="container-fluid container-1690">
                      <div class="row gx-0">
                         <div class="col-xl-3">
@@ -855,7 +881,7 @@
                               <p class="mb-30">An HR consulting service should include
                                  content about topics talent acquisition
                                  employee engagement</p>
-                              <a href="project.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                              <a href="project.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text"> View all services</span>
                                     <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1266,7 +1292,7 @@
                <!-- tp-faq-area-end -->
 
                <!-- tp-portfolio-area-start -->
-               <div id="portfolio" class="tp-portfolio-area pb-140">
+               <div class="tp-portfolio-area pb-140">
                   <div class="container-fluid container-1690">
                      <div class="tp-project-4-bg tp-round-4 anim-zoomin-wrap p-relative pt-120 pb-120">
                         <div class="tp-gsap-image-position anim-zoomin fix">
@@ -1286,7 +1312,7 @@
                               <div class="tp-testimonial-3-content">
                                  <h2 class="tp-text-grey-3 fs-80"><span data-purecounter-duration="1" data-purecounter-end="256"  class="purecounter">0</span>k</h2>
                                  <h4 class="tp-text-common-white fw-500 lh-36 mb-35">Successfully project done <br> on complicated ideas</h4>
-                                 <a href="contact.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 mr-20 ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                 <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 mr-20 ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
                                        <span class="btn-text">View all case studies</span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1444,7 +1470,7 @@
                                                    </div>
                                                 </div>
                                                 <div class="mb-10">
-                                                   <a href="testimonial.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                                   <a href="testimonial.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                       <span class="d-flex align-items-center justify-content-center">
                                                          <span class="btn-text">View all testimonials</span>
                                                          <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1471,7 +1497,7 @@
                                                    </div>
                                                 </div>
                                                 <div class="mb-10">
-                                                   <a href="contact.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                                   <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                       <span class="d-flex align-items-center justify-content-center">
                                                          <span class="btn-text">View all testimonials</span>
                                                          <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1498,7 +1524,7 @@
                                                    </div>
                                                 </div>
                                                 <div class="mb-10">
-                                                   <a href="contact.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                                   <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                                       <span class="d-flex align-items-center justify-content-center">
                                                          <span class="btn-text">View all testimonials</span>
                                                          <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1534,7 +1560,7 @@
                <!-- tp-testimonial-area-end -->
 
                <!-- tp-team-area-start -->
-               <div id="team" class="tp-team-area pt-145 pb-105">
+               <div class="tp-team-area pt-145 pb-105">
                   <div class="container-fluid container-1690">
                      <div class="row">
                         <div class="col-xl-5 mb-30">
@@ -1542,7 +1568,7 @@
                               <h2 class="mb-20 fs-xl-40 fs-sm-36 text-anim">Bring your team together & faster a sense of unity <span class="text-italic fw-400 tp-ff-heading">collaboration</span> </h2>
                               <p class="mb-40">Our team is dedicated to crafting strategies with vision, consulting services<br>
                                  that address challenges, & driving business development</p>
-                              <a href="team.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                              <a href="team.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text"> Know more about us</span>
                                     <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1568,7 +1594,7 @@
                                           <button class="tp-team-4-toggle-btn toggle-btn">
                                              <i class="fa-regular fa-eye-slash active"></i>
                                           </button>
-                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.html">Luipa Hazelwood</a></h2>
+                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.php">Luipa Hazelwood</a></h2>
                                           <span class="tp-team-4-subtitle">Manager</span>
                                           <div class="tp-team-4-social">
                                              <a href="#">FB</a>
@@ -1593,7 +1619,7 @@
                                           <button class="tp-team-4-toggle-btn toggle-btn">
                                              <i class="fa-regular fa-eye"></i>
                                           </button>
-                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.html">Neil Armstong</a></h2>
+                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.php">Neil Armstong</a></h2>
                                           <span class="tp-team-4-subtitle">HR Manager</span>
                                           <div class="tp-team-4-social">
                                              <a href="#">FB</a>
@@ -1618,7 +1644,7 @@
                                           <button class="tp-team-4-toggle-btn toggle-btn">
                                              <i class="fa-regular fa-eye"></i>
                                           </button>
-                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.html">Kintong Hurry</a></h2>
+                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.php">Kintong Hurry</a></h2>
                                           <span class="tp-team-4-subtitle">Developer</span>
                                           <div class="tp-team-4-social">
                                              <a href="#">FB</a>
@@ -1643,7 +1669,7 @@
                                           <button class="tp-team-4-toggle-btn toggle-btn">
                                              <i class="fa-regular fa-eye"></i>
                                           </button>
-                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.html">Nomad Philips</a></h2>
+                                          <h2 class="tp-team-4-title mb-0"><a href="team-details.php">Nomad Philips</a></h2>
                                           <span class="tp-team-4-subtitle">Designer</span>
                                           <div class="tp-team-4-social">
                                              <a href="#">FB</a>
@@ -1678,7 +1704,7 @@
                                  </span>
                                  <h5 class="tp-policy-4-title tp-text-grey-3 ls-m-3 fs-60 fw-600 d-flex mb-5"><span class="fs-20">$</span>980 m</h5>
                                  <p class="tp-policy-4-para fw-500 fs-18 ls-m-2 tp-text-common-white mb-40">budgeto net free income</p>
-                                 <a href="contact.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                 <a href="contact.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
                                        <span class="btn-text">Read more</span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1697,7 +1723,7 @@
                                        annual report.</a></h2>
                                     <p class="ls-m-2 mb-20">Annual reports international companies​​
                                        is the most complete & up-to-date</p>
-                                    <a href="contact.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 border-full-1 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                    <a href="contact.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 border-full-1 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                        <span class="d-flex align-items-center justify-content-center">
                                           <span class="btn-text">Read more</span>
                                           <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1717,7 +1743,7 @@
                                        principle that prioritizes environmental
                                        issues, social issues, and corporate
                                        governance</p>
-                                    <a href="contact.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                                    <a href="contact.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                        <span class="d-flex align-items-center justify-content-center">
                                           <span class="btn-text">Read more</span>
                                           <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1738,7 +1764,7 @@
                                        policy.</a></h2>
                                     <p class="ls-m-2 mb-20">An individual security policy is a rule
                                        that determines if a network</p>
-                                    <a href="contact.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 border-full-1 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                    <a href="contact.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 border-full-1 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                        <span class="d-flex align-items-center justify-content-center">
                                           <span class="btn-text">Read more</span>
                                           <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1806,7 +1832,7 @@
                                     <li><i class="fa-sharp fa-solid fa-check"></i> Career growth & development</li>
                                  </ul>
                               </div>
-                              <a href="contact.html" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
+                              <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-26 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text"> Available job</span>
                                     <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1821,7 +1847,7 @@
                <!-- tp-benifits-area-end -->
 
                <!-- tp-blog-area-start -->
-               <div id="blog" class="tp-blog-area tp-blog-4-spacing pb-140 tp-round-4 tp-bg-grey-3 pt-135">
+               <div class="tp-blog-area tp-blog-4-spacing pb-140 tp-round-4 tp-bg-grey-3 pt-135">
                   <div class="container">
                      <div class="row">
                         <div class="col-12">
@@ -1846,7 +1872,7 @@
                                           <div class="tp-blog-4-border mr-30 ml-30"></div>
                                           <span class="tp-text-grey-1 fs-14">20 July, 2024</span>
                                        </div>
-                                       <h3 class="fw-500 fs-24 title ls-m-2 mb-25"><a href="blog-details.html">Making innovative strategies for<br>
+                                       <h3 class="fw-500 fs-24 title ls-m-2 mb-25"><a href="blog-details.php">Making innovative strategies for<br>
                                           the outstanding future results</a></h3>
                                        <div class="tp-blog-2-comment d-flex align-items-center">
                                           <span class="tp-text-grey-1 d-flex align-items-center mr-20">
@@ -1870,7 +1896,7 @@
                                        <p class="mb-40">In today’s competitive business world, trust is
                                           a key factor when choosing an agency to
                                           work with. A trusted agency</p>
-                                          <a href="blog-details.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-white hover-bg-primary fw-500">
+                                          <a href="blog-details.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-white hover-bg-primary fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text">Read more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1898,7 +1924,7 @@
                                           <div class="tp-blog-4-border mr-30 ml-30"></div>
                                           <span class="tp-text-grey-1 fs-14">20 July, 2024</span>
                                        </div>
-                                       <h3 class="fw-500 fs-24 title ls-m-2 mb-25"><a href="blog-details.html">Explore a range fulfilling positions
+                                       <h3 class="fw-500 fs-24 title ls-m-2 mb-25"><a href="blog-details.php">Explore a range fulfilling positions
                                           across various departments</a></h3>
                                        <div class="tp-blog-2-comment d-flex align-items-center">
                                           <span class="tp-text-grey-1 d-flex align-items-center mr-20">
@@ -1922,7 +1948,7 @@
                                        <p class="mb-40">In today’s competitive business world, trust is
                                           a key factor when choosing an agency to
                                           work with. A trusted agency</p>
-                                          <a href="blog-details.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-white hover-bg-primary fw-500">
+                                          <a href="blog-details.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-white hover-bg-primary fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text">Read more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -1950,7 +1976,7 @@
                                           <div class="tp-blog-4-border mr-30 ml-30"></div>
                                           <span class="tp-text-grey-1 fs-14">20 July, 2024</span>
                                        </div>
-                                       <h3 class="fw-500 fs-24 title ls-m-2 mb-25"><a href="blog-details.html">Mention the different types of
+                                       <h3 class="fw-500 fs-24 title ls-m-2 mb-25"><a href="blog-details.php">Mention the different types of
                                           positions available</a></h3>
                                        <div class="tp-blog-2-comment d-flex align-items-center">
                                           <span class="tp-text-grey-1 d-flex align-items-center mr-20">
@@ -1974,7 +2000,7 @@
                                        <p class="mb-40">In today’s competitive business world, trust is
                                           a key factor when choosing an agency to
                                           work with. A trusted agency</p>
-                                          <a href="blog-details.html" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-white hover-bg-primary fw-500">
+                                          <a href="blog-details.php" class="tp-btn-md d-inline-block lh-0 tp-round-26 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-white hover-bg-primary fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text">Read more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -2036,7 +2062,7 @@
                         <div class="row">
                            <div class="col-lg-4 col-md-6 col-sm-6">
                               <div class="tp-footer-widget tp-footer-3-widget mb-40 mr-10">
-                                 <a class="mb-30 d-inline-block" href="index.html"><img data-width="168" src="assets/img/logo/logo-white.png" alt=""></a>
+                                 <a class="mb-30 d-inline-block" href="index.php"><img data-width="168" src="assets/img/logo/logo-white.png" alt=""></a>
                                  <p class="tp-text-grey-3 mb-30">A startup vision summary should be a concise
                                     statement that captures the essence of your
                                     company’s long-term goal</p>
@@ -2081,11 +2107,11 @@
                                  <h5 class="fw-500 fs-24 tp-text-common-white mb-25">Useful links</h5>
                                  <div class="tp-footer-menu">
                                     <ul>
-                                       <li><a href="about.html">About us</a></li>
+                                       <li><a href="about.php">About us</a></li>
                                        <li><a href="#">Our consultants</a></li>
-                                       <li><a href="service.html">Our Services</a></li>
+                                       <li><a href="service.php">Our Services</a></li>
                                        <li><a href="#">Case studies</a></li>
-                                       <li><a href="contact.html">Contact us</a></li>
+                                       <li><a href="contact.php">Contact us</a></li>
                                     </ul>
                                  </div>
                               </div>
@@ -2138,8 +2164,6 @@
 
          </div>
       </div>
-
-
       <!-- JS here -->
       <script src="assets/js/vendor/jquery.js"></script>
       <script src="assets/js/bootstrap-bundle.js"></script>

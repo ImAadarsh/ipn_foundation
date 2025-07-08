@@ -1122,7 +1122,7 @@
     return t instanceof fe(t).Element || t instanceof Element;
   }
   function me(t) {
-    return t instanceof fe(t).HTMLElement || t instanceof HTMLElement;
+    return t instanceof fe(t).phpElement || t instanceof HTMLElement;
   }
   function ge(t) {
     return (
@@ -3297,7 +3297,7 @@
         ((e = this._resolvePossibleFunction(e))
           ? o(e)
             ? this._putElementInTemplate(r(e), n)
-            : this._config.html
+            : this._config.php
             ? (n.innerHTML = this._maybeSanitize(e))
             : (n.textContent = e)
           : n.remove());
@@ -3327,7 +3327,7 @@
       return g(t, [this]);
     }
     _putElementInTemplate(t, e) {
-      if (this._config.html) return (e.innerHTML = ""), void e.append(t);
+      if (this._config.php) return (e.innerHTML = ""), void e.append(t);
       e.textContent = t.textContent;
     }
   }

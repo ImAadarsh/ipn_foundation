@@ -249,7 +249,7 @@ Citations:
 [4] https://www.instagram.com/p/DH8-ZLDoJTB/
 [5] https://www.ipnfoundation.org/backdrop
 [6] https://www.semanticscholar.org/paper/e7eca94c830558ef5e9c802584c0c812c779a205
-[7] https://www.business-standard.com/content/press-releases-ani/wwf-india-and-indian-principals-network-ipn-foundation-to-foster-a-nationwide-community-of-planet-champions-124091800779_1.html
+[7] https://www.business-standard.com/content/press-releases-ani/wwf-india-and-indian-principals-network-ipn-foundation-to-foster-a-nationwide-community-of-planet-champions-124091800779_1.php
 [8] https://global.ipnfoundation.org
 [9] https://www.semanticscholar.org/paper/b594c58fc1136628fb039ff2a5492cad8f4e11c5
 [10] https://newsriveting.com/ipn-foundation-hosts-regional-confluence-northern-india-dialogue-in-new-delhi/
@@ -275,7 +275,7 @@ Citations:
 [30] https://www.linkedin.com/posts/ipn-indian-principal-s-network_ipnadvisorycouncil-ipn-advisors-activity-7034729402726830080-DfTI
 [31] https://www.terrapinn.com/exhibition/edutech-asia/speaker-gaurava-YADAV.stm
 [32] https://www.linkedin.com/posts/ipn-indian-principal-s-network_shine-heroes-ipn-activity-7285234264835530753-Kv4h
-[33] https://www.ipn.mx/english/about-us/mission-and-vision.html
+[33] https://www.ipn.mx/english/about-us/mission-and-vision.php
 [34] http://www.ipnfoundation.eduace.in
 [35] https://www.instagram.com/ipn_foundation/
 [36] https://indianprincipals.com
