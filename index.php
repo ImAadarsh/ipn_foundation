@@ -58,19 +58,17 @@
                      <div class="swiper-wrapper">
                         <div class="swiper-slide">
                            <div class="tp-hero-singles p-relative not-hide-cursor" data-cursor="Drag">
-                              <div class="tp-hero-bg bg-position" data-background="assets/img/hero/bg.jpg"></div>
+                              <div class="tp-hero-bg bg-position" data-background="assets/img/home_bg/1.png"></div>
                               <div class="container">
                                  <div class="row align-items-end">
                                     <div class="col-lg-7 tp-hero-spacing">
                                        <div class="tp-hero-content-wrapper">
-                                          <h2 class="tp-hero-title text fw-600 fs-70 fs-lg-50 fs-xs-34 ls-m-3 tp-text-common-white lh-1 mb-25">Professional guidance for
-                                             a sustainable <span class="tp-ff-heading text-italic tp-text-theme-secondary fw-400">tomorrow.</span></h2>
-                                          <p class="text2 mb-50 tp-text-grey-3">The word conjures images of business suits, boardrooms and hefty  reports. It’s notorious for being
-                                             one of those jobs your friends don’t  understand. However, it’s a lucrative and dynamic</p>
+                                          <h2 class="tp-hero-title text fw-600 fs-70 fs-lg-50 fs-xs-34 ls-m-3 tp-text-common-white lh-1 mb-25">Smart Steps Towards <span class="tp-ff-heading text-italic tp-text-theme-secondary fw-400">Education System Development</span></h2>
+                                          <p class="text2 mb-50 tp-text-grey-3">The IPN Foundation is a leading knowledge network of school leaders, bridging the gap between thought leaders from diverse cultures and backgrounds to enable the exchange of best practices and ideas for the development of the education system.</p>
                                           <div class="tp-hero-btn text3">
                                              <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
-                                                   <span class="btn-text"> Schedule a free consultant </span>
+                                                   <span class="btn-text">Join the Network</span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
                                                    <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
                                                 </span> 
@@ -100,8 +98,8 @@
                                        <div class="tp-hero-content-wrapper">
                                           <h2 class="tp-hero-title text fw-600 fs-70 fs-lg-50 fs-xs-34 ls-m-3 tp-text-common-white lh-1 mb-25">Professional guidance for
                                              a sustainable <span class="tp-ff-heading text-italic tp-text-theme-secondary fw-400">tomorrow.</span></h2>
-                                          <p class="text2 mb-50 tp-text-grey-3">The word conjures images of business suits, boardrooms and hefty  reports. It’s notorious for being
-                                             one of those jobs your friends don’t  understand. However, it’s a lucrative and dynamic</p>
+                                          <p class="text2 mb-50 tp-text-grey-3">The word conjures images of business suits, boardrooms and hefty  reports. It's notorious for being
+                                             one of those jobs your friends don't  understand. However, it's a lucrative and dynamic</p>
                                           <div class="tp-hero-btn text3">
                                              <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
@@ -135,8 +133,8 @@
                                        <div class="tp-hero-content-wrapper">
                                           <h2 class="tp-hero-title text fw-600 fs-70 fs-lg-50 fs-xs-34 ls-m-3 tp-text-common-white lh-1 mb-25">Professional guidance for
                                              a sustainable <span class="tp-ff-heading text-italic tp-text-theme-secondary fw-400">tomorrow.</span></h2>
-                                          <p class="text2 mb-50 tp-text-grey-3">The word conjures images of business suits, boardrooms and hefty  reports. It’s notorious for being
-                                             one of those jobs your friends don’t  understand. However, it’s a lucrative and dynamic</p>
+                                          <p class="text2 mb-50 tp-text-grey-3">The word conjures images of business suits, boardrooms and hefty  reports. It's notorious for being
+                                             one of those jobs your friends don't  understand. However, it's a lucrative and dynamic</p>
                                           <div class="tp-hero-btn text3">
                                              <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-common-white ls-0 tp-btn-switch-animation tp-text-theme-primary fw-500">
                                                 <span class="d-flex align-items-center justify-content-center">
@@ -192,12 +190,9 @@
                                        <rect x="10.7297" y="39.9187" width="10.973" height="10.973" stroke="#354C4C" stroke-width="2" />
                                     </svg>
                                  </span>
-                                 <h4 class="ls-m-2 lh-32">Flexibility and<br>
-                                    adaptability</h4>
+                                 <h4 class="ls-m-2 lh-32">Knowledge Sharing & Leadership</h4>
                               </div>
-                              <p class="tp-text-grey-2">Flexibility refers to the ability to adjust and modify<br>
-                                 one's approach, behaviour, or plans in response
-                                 changing circumstances or demands</p>
+                              <p class="tp-text-grey-2">A platform for enhancing the quality of education and developing leadership among school leaders.</p>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -209,12 +204,9 @@
                                        <rect x="21.2703" y="1" width="38.5405" height="38.5405" stroke="#354C4C" stroke-width="2" />
                                     </svg>
                                  </span>
-                                 <h4 class="ls-m-2 lh-32">Market analysis<br>
-                                    and research</h4>
+                                 <h4 class="ls-m-2 lh-32">Teacher Training & Empowerment</h4>
                               </div>
-                              <p class="tp-text-grey-2">Flexibility refers to the ability to adjust and modify<br>
-                                 one's approach, behaviour, or plans in response
-                                 changing circumstances or demands</p>
+                              <p class="tp-text-grey-2">Development of schools through training sessions for teachers and empowering educators nationwide.</p>
                            </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -230,12 +222,9 @@
                                        <path d="M49.8649 38.5135H38.5135V49.8649" stroke="#354C4C" stroke-width="2" />
                                     </svg>
                                  </span>
-                                 <h4 class="ls-m-2 lh-32">Customer care<br>
-                                    and support</h4>
+                                 <h4 class="ls-m-2 lh-32">Student Entrepreneurship</h4>
                               </div>
-                              <p class="tp-text-grey-2">Flexibility refers to the ability to adjust and modify<br>
-                                 one's approach, behaviour, or plans in response
-                                 changing circumstances or demands</p>
+                              <p class="tp-text-grey-2">Fostering leadership traits and entrepreneurial skills in students for holistic development.</p>
                            </div>
                         </div>
                      </div>
@@ -253,7 +242,7 @@
                                  <div class="col-lg-7 col-md-7 col-sm-7 mb-20">
                                     <div class="tp-about-thumb anim-zoomin-wrap mr-15 p-relative">
                                        <div class="anim-zoomin fix">
-                                          <img class="thumb w-100" src="assets/img/about/thumb.jpg" alt="">
+                                          <img class="thumb w-100" src="assets/img/home_bg/2.png" alt="">
                                       </div>
                                        <img class="tp-about-shape p-absolute d-none d-sm-block" src="assets/img/about/shape.png" alt="">
                                     </div>
@@ -261,7 +250,7 @@
                                  <div class="col-lg-5 col-md-5 col-sm-5 mb-20">
                                     <div class="tp-about-thumb-2 h-100 fix tp-round-4">
                                        <div class="anim-zoomin fix">
-                                          <img class="w-100 tp-round-4 mb-20" src="assets/img/about/thumb-2.jpg" alt="">
+                                          <img class="w-100 tp-round-4 mb-20" src="assets/img/home_bg/3.png" alt="">
                                       </div>
                                        <div class="tp-bg-theme-secondary text-center pt-60 pb-35 tp-round-4 h-100">
                                           <span class="mb-30 d-inline-block">
@@ -293,16 +282,12 @@
                                     </svg>
                                     Know about our consulting agency
                                  </span>
-                                 <h2 class="mb-25 fs-xl-37 text-anim"> We collaborate with you to bring your <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">vision to life.</span> </h2>
-                                 <p class="mb-30">At budgeto, we empower success through tailored strategic solutions. From innovative
-                                    consulting to business development and monitoring, we  navigate the complexities
-                                    of the business landscape with you.</p>
-                                 <p class="mb-55">Our team is dedicated to crafting strategies that align with vision, consulting services
-                                    that address challenges, & driving business development for expansion. We monitor
-                                    your operations with precision, ensuring continuous</p>
+                                 <h2 class="mb-25 fs-xl-37 text-anim"> We collaborate with you to bring <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">educational transformation</span> to life. </h2>
+                                 <p class="mb-30">The IPN Foundation empowers school leaders through strategic knowledge sharing, leadership development, and innovative educational programs. Our network spans 5 continents and 45+ countries, connecting over 10,000 leaders.</p>
+                                 <p class="mb-55">Founded by Gaurav Yadava, IPN Foundation is committed to upskilling principals, teachers, and students, and has collaborated with over 12,000 schools, 500,000 teachers, and 1 million students since 2016.</p>
                                  <a href="about.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
-                                       <span class="btn-text"> Discover more us</span>
+                                       <span class="btn-text">Discover our journey</span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
                                        <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
                                     </span> 
@@ -400,16 +385,14 @@
                               <div class="row">
                                  <div class="col-lg-5 col-md-6">
                                     <div class="tp-about-bottom-right tp-bg-common-white mt-40 mb-40 ml-20 tp-round-4 p-relative">
-                                       <h4 class="fs-24 mb-15">Establish year</h4>
-                                       <p class="mb-20">This year is significant because it provides
-                                          insight into the history and experience of
-                                          the consulting firm.</p>
+                                       <h4 class="fs-24 mb-15">Established</h4>
+                                       <p class="mb-20">Founded in 2016, IPN Foundation has become a catalyst for educational innovation and leadership in India and globally.</p>
                                        <span class="tp-border-bottom d-block mb-20"></span>
                                        <div class="tp-about-bottom-grow">
-                                          <span class="fs-14 tp-text-theme-primary border-full-1 mr-5">Annual growth - 20%</span>
-                                          <span class="fs-14 tp-text-theme-primary border-full-1">250+ Team</span>
+                                          <span class="fs-14 tp-text-theme-primary border-full-1 mr-5">Global reach: 45+ countries</span>
+                                          <span class="fs-14 tp-text-theme-primary border-full-1">10,000+ Leaders</span>
                                        </div>
-                                       <h4 class="tp-about-bottom-year p-absolute mb-0"><span data-purecounter-duration="1" data-purecounter-end="1996"  class="purecounter">0</span></h4>
+                                       <h4 class="tp-about-bottom-year p-absolute mb-0"><span data-purecounter-duration="1" data-purecounter-end="2016"  class="purecounter">0</span></h4>
                                        <span class="tp-about-bottom-shape p-absolute d-none d-xxl-block wow zoomIn" data-wow-delay=".3s" data-wow-duration=".9s">
                                           <svg width="139" height="81" viewBox="0 0 139 81" fill="none" xmlns="http://www.w3.org/2000/svg">
                                              <path d="M103.842 140.511C109.91 136.509 113.784 132.217 114.083 131.938C124.967 120.752 131.648 103.639 129.391 84.7691C127.756 75.7307 126.905 74.6045 124.836 69.3289L124.791 69.2876C123.664 66.2491 116.575 53.8882 104.896 46.8527C81.8311 33.3103 65.1324 41.0894 50.3998 46.5369L62.1812 57.3433C64.3142 59.3006 62.5503 62.8299 59.7055 62.2982L2.5054 51.5849C0.363003 51.1841 -0.573568 48.6443 0.793098 46.9486L37.5741 1.26451C39.3646 -0.961681 42.9564 0.499885 42.6862 3.34536L40.9958 21.0827C44.0075 20.406 80.0194 2.05547 116.202 31.6631C127.675 41.2091 133.318 51.7071 137.97 64.9185C139.398 70.2956 140.736 77.8306 140.623 84.073C140.103 106.076 130.076 123.831 116.373 134.457C113.269 136.679 111.403 138.479 104.541 141.75C103.749 142.125 103.106 140.996 103.842 140.511Z" fill="#F6F6F6" />
@@ -418,7 +401,7 @@
                                     </div>
                                  </div>
                                  <div class="col-lg-7 col-md-6 mt-40 pb-40">
-                                    <div class="tp-about-bottom-video bg-position" data-background="assets/img/about/video.jpg">
+                                    <div class="tp-about-bottom-video bg-position" data-background="assets/img/home_bg/4.png">
                                        <a class="tp-about-bottom-video-btn popup-video" href="https://www.youtube.com/watch?v=go7QYaQR494">
                                           <span>
                                              <svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -464,7 +447,7 @@
                               </div>
                               <div class="tp-service-thumb anim-zoomin-wrap  p-relative mb-35 tp-round-4 fix">
                                  <div class="anim-zoomin fix">
-                                    <img class="tp-round-4 w-100" src="assets/img/service/thumb.jpg" alt="">
+                                    <img class="tp-round-4 w-100" src="assets/img/home_bg/5.png" alt="">
                                  </div>
                                  <span class="tp-service-icon p-absolute">
                                     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -476,14 +459,13 @@
                                  </span>
                               </div>
                               <div class="tp-service-content">
-                                 <h3 class="mb-15"><a class="underline-black" href="service-details.php">Finance consulting</a></h3>
-                                 <p class="mb-40">Finance consulting involves providing expert advice to
-                                    businesses, individuals, or organizations</p>
-                                 <h5 class="fs-16 fw-500 mb-10">Consulting services</h5>
+                                 <h3 class="mb-15"><a class="underline-black" href="service-details.php">Leadership Development</a></h3>
+                                 <p class="mb-40">Workshops, summits, and training for school leaders to foster innovation and best practices in education.</p>
+                                 <h5 class="fs-16 fw-500 mb-10">Key Programs</h5>
                                  <span class="tp-border-bottom d-block mb-20"></span>
                                  <ul>
-                                    <li><i class="fa-sharp fa-solid fa-check"></i> Compliance and regulatory consulting</li>
-                                    <li><i class="fa-sharp fa-solid fa-check"></i> Financial software implementation</li>
+                                    <li><i class="fa-sharp fa-solid fa-check"></i> IPN Leadership Academy</li>
+                                    <li><i class="fa-sharp fa-solid fa-check"></i> Regional Conferences & Dialogues</li>
                                  </ul>
                               </div>
                            </div>
@@ -499,7 +481,7 @@
                               </div>
                               <div class="tp-service-thumb anim-zoomin-wrap p-relative mb-35 tp-round-4 fix">
                                  <div class="anim-zoomin fix">
-                                    <img class="tp-round-4 w-100" src="assets/img/service/thumb-2.jpg" alt="">
+                                    <img class="tp-round-4 w-100" src="assets/img/home_bg/6.png" alt="">
                                  </div>
                                  <span class="tp-service-icon p-absolute">
                                     <svg width="36" height="40" viewBox="0 0 36 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -514,14 +496,13 @@
                                  </span>
                               </div>
                               <div class="tp-service-content">
-                                 <h3 class="mb-15"><a class="underline-black" href="service-details.php">Marketing consulting</a></h3>
-                                 <p class="mb-40">Marketing consulting involves providing expert advice and
-                                    strategies to businesses to improve</p>
-                                 <h5 class="fs-16 fw-500 mb-10">Strategy services</h5>
+                                 <h3 class="mb-15"><a class="underline-black" href="service-details.php">Teacher Empowerment</a></h3>
+                                 <p class="mb-40">Training and upskilling programs for teachers, including expert sessions and continuous professional development.</p>
+                                 <h5 class="fs-16 fw-500 mb-10">Key Programs</h5>
                                  <span class="tp-border-bottom d-block mb-20"></span>
                                  <ul>
-                                    <li><i class="fa-sharp fa-solid fa-check"></i> Compliance and regulatory consulting</li>
-                                    <li><i class="fa-sharp fa-solid fa-check"></i> Financial software implementation</li>
+                                    <li><i class="fa-sharp fa-solid fa-check"></i> IPN Academy Workshops</li>
+                                    <li><i class="fa-sharp fa-solid fa-check"></i> Expert-Led Sessions</li>
                                  </ul>
                               </div>
                            </div>
@@ -537,7 +518,7 @@
                               </div>
                               <div class="tp-service-thumb anim-zoomin-wrap p-relative mb-35 tp-round-4 fix">
                                  <div class="anim-zoomin fix">
-                                    <img class="tp-round-4 w-100" src="assets/img/service/thumb-3.jpg" alt="">
+                                    <img class="tp-round-4 w-100" src="assets/img/home_bg/7.png" alt="">
                                  </div>
                                  <span class="tp-service-icon p-absolute">
                                     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -546,14 +527,13 @@
                                  </span>
                               </div>
                               <div class="tp-service-content">
-                                 <h3 class="mb-15"><a class="underline-black" href="service-details.php">Business consulting</a></h3>
-                                 <p class="mb-40">Finance consulting involves providing expert advice to
-                                    businesses, individuals, or organizations</p>
-                                 <h5 class="fs-16 fw-500 mb-10">Strategy services</h5>
+                                 <h3 class="mb-15"><a class="underline-black" href="service-details.php">Student Development</a></h3>
+                                 <p class="mb-40">Initiatives to foster leadership and entrepreneurship among students, preparing them for future challenges.</p>
+                                 <h5 class="fs-16 fw-500 mb-10">Key Programs</h5>
                                  <span class="tp-border-bottom d-block mb-20"></span>
                                  <ul>
-                                    <li><i class="fa-sharp fa-solid fa-check"></i> Compliance and regulatory consulting</li>
-                                    <li><i class="fa-sharp fa-solid fa-check"></i> Financial software implementation</li>
+                                    <li><i class="fa-sharp fa-solid fa-check"></i> Student Entrepreneurship</li>
+                                    <li><i class="fa-sharp fa-solid fa-check"></i> Leadership Traits Programs</li>
                                  </ul>
                               </div>
                            </div>
@@ -572,7 +552,7 @@
                   <img class="tp-testimonial-shape p-absolute wow fadeInDown" data-wow-delay="100ms" src="assets/img/testimonial/shape.png" alt="">
                   <img class="tp-testimonial-shape-2 p-absolute d-none d-lg-block rotate-infinite" src="assets/img/testimonial/shape-2.png" alt="">
                   <div class="tp-testimonial-bg-slider">
-                     <div class="tp-testimonial-bg bg-position" data-background="assets/img/testimonial/thumb.jpg"></div>
+                     <div class="tp-testimonial-bg bg-position" data-background="assets/img/home_bg/feedback_bg.png"></div>
                   </div>
                   <div class="tp-testimonial-bottom pt-185">
                      <div class="container">
@@ -584,49 +564,19 @@
                                        <div class="swiper-wrapper">
                                           <div class="swiper-slide">
                                              <div class="tp-testimonial-content">
-                                                <h4 class="fw-500 mb-0 tp-text-common-white lh-38">"The exceptional service and results delivered by
-                                                   budgeto have made them our go-to consultancy
-                                                   and legal partner. We combine deep industry
-                                                   knowledge with innovative legal strategies."</h4>
+                                                <h4 class="fw-500 mb-0 tp-text-common-white lh-38">"IPN Foundation has transformed the way we approach leadership in education. The network's support and resources are invaluable."</h4>
                                                 <div class="tp-testimonial-bottom-thumb-content tp-round-4 mt-20 tp-bg-theme-secondary">
-                                                   <h6 class="fs-20 fw-500 mb-0">Brandon Clark</h6>
-                                                   <p class="tp-text-grey-2 mb-0">Director of finance</p>
+                                                   <h6 class="fs-20 fw-500 mb-0">Tina Olyai</h6>
+                                                   <p class="tp-text-grey-2 mb-0">Founder Director, Little Angels High School</p>
                                                 </div>
                                              </div>
                                           </div>
                                           <div class="swiper-slide">
                                              <div class="tp-testimonial-content">
-                                                <h4 class="fw-500 mb-0 tp-text-common-white lh-38">"The exceptional service and results delivered by
-                                                   budgeto have made them our go-to consultancy
-                                                   and legal partner. We combine deep industry
-                                                   knowledge with innovative legal strategies."</h4>
+                                                <h4 class="fw-500 mb-0 tp-text-common-white lh-38">"Through IPN's workshops and summits, our teachers and students have gained new perspectives and skills for the future."</h4>
                                                 <div class="tp-testimonial-bottom-thumb-content tp-round-4 mt-20 tp-bg-theme-secondary">
-                                                   <h6 class="fs-20 fw-500 mb-0">Harun Rashid</h6>
-                                                   <p class="tp-text-grey-2 mb-0">Director of finance</p>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="swiper-slide">
-                                             <div class="tp-testimonial-content">
-                                                <h4 class="fw-500 mb-0 tp-text-common-white lh-38">"The exceptional service and results delivered by
-                                                   budgeto have made them our go-to consultancy
-                                                   and legal partner. We combine deep industry
-                                                   knowledge with innovative legal strategies."</h4>
-                                                <div class="tp-testimonial-bottom-thumb-content tp-round-4 mt-20 tp-bg-theme-secondary">
-                                                   <h6 class="fs-20 fw-500 mb-0">Belal Mahamud</h6>
-                                                   <p class="tp-text-grey-2 mb-0">Director of finance</p>
-                                                </div>
-                                             </div>
-                                          </div>
-                                          <div class="swiper-slide">
-                                             <div class="tp-testimonial-content">
-                                                <h4 class="fw-500 mb-0 tp-text-common-white lh-38">"The exceptional service and results delivered by
-                                                   budgeto have made them our go-to consultancy
-                                                   and legal partner. We combine deep industry
-                                                   knowledge with innovative legal strategies."</h4>
-                                                <div class="tp-testimonial-bottom-thumb-content tp-round-4 mt-20 tp-bg-theme-secondary">
-                                                   <h6 class="fs-20 fw-500 mb-0">Shanto Sharif</h6>
-                                                   <p class="tp-text-grey-2 mb-0">Director of finance</p>
+                                                   <h6 class="fs-20 fw-500 mb-0">Seetha Murty</h6>
+                                                   <p class="tp-text-grey-2 mb-0">Director Education, Silver Oaks International School</p>
                                                 </div>
                                              </div>
                                           </div>
@@ -640,22 +590,22 @@
                                     <div class="swiper-wrapper">
                                        <div class="swiper-slide">
                                           <div class="tp-testimonial-bottom-thumb">
-                                             <img src="assets/img/testimonial/avatar.jpg" alt="">
+                                             <img src="assets/img/home_bg/school_logo.png" alt="">
                                           </div>
                                        </div>
                                        <div class="swiper-slide">
                                           <div class="tp-testimonial-bottom-thumb">
-                                             <img src="assets/img/testimonial/avatar-2.jpg" alt="">
+                                             <img src="assets/img/home_bg/school_logo.png" alt="">
                                           </div>
                                        </div>
                                        <div class="swiper-slide">
                                           <div class="tp-testimonial-bottom-thumb">
-                                             <img src="assets/img/testimonial/avatar-3.jpg" alt="">
+                                             <img src="assets/img/home_bg/school_logo.png" alt="">
                                           </div>
                                        </div>
                                        <div class="swiper-slide">
                                           <div class="tp-testimonial-bottom-thumb">
-                                             <img src="assets/img/testimonial/avatar-4.jpg" alt="">
+                                             <img src="assets/img/home_bg/school_logo.png" alt="">
                                           </div>
                                        </div>
                                     </div>
@@ -675,15 +625,13 @@
                         <div class="col-lg-6">
                            <div class="tp-project-content pb-50">
                               <div class="d-sm-flex align-items-sm-center">
-                                 <h2 class="fs-80 tp-text-grey-2 mr-40">293+</h2>
-                                 <p class="fw-500 ls-m-2 mb-0">Successful consulting<br> projects complete </p>
+                                 <h2 class="fs-80 tp-text-grey-2 mr-40">12,000+</h2>
+                                 <p class="fw-500 ls-m-2 mb-0">Schools engaged through IPN Foundation initiatives</p>
                               </div>
                               <div class="tp-border-bottom mt-25 mb-70"></div>
                               <div>
-                                 <h2 class="mb-20  text-anim"> We’ve helped numerous of businesses get <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">back on track.</span> </h2>
-                                 <p class="mb-40">Our team is dedicated to crafting strategies that align with vision, consulting services
-                                    that address challenges, & driving business development for expansion. We monitor
-                                    your operations with precision, ensuring continuous</p>
+                                 <h2 class="mb-20  text-anim"> We've helped thousands of schools and educators <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">transform education.</span> </h2>
+                                 <p class="mb-40">Our programs have reached over 500,000 teachers and 1 million students, driving innovation and excellence in education across India and globally.</p>
                                  <a href="project.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                     <span class="d-flex align-items-center justify-content-center">
                                        <span class="btn-text"> View all case studies</span>
@@ -699,17 +647,17 @@
                               <div class="row gx-60 justify-content-center">
                                  <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div class="tp-project-thumb" data-parallax='{"y": 20, "smoothness": 30}'>
-                                       <img class="w-100 tp-round-4" src="assets/img/project/thumb.jpg" alt="">
+                                       <img class="w-100 tp-round-4" src="assets/img/home_bg/a.png" alt="">
                                     </div>
                                  </div>
                                  <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div class="tp-project-thumb" data-parallax='{"y": 20, "smoothness": 30}'>
-                                       <img class="w-100 tp-round-4" src="assets/img/project/thumb-2.jpg" alt="">
+                                       <img class="w-100 tp-round-4" src="assets/img/home_bg/b.png" alt="">
                                     </div>
                                  </div>
                                  <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div class="tp-project-thumb-3" data-parallax='{"y": -20, "smoothness": 30}'>
-                                       <img class="w-100 tp-round-4" src="assets/img/project/thumb-3.jpg" alt="">
+                                       <img class="w-100 tp-round-4" src="assets/img/home_bg/e.png" alt="">
                                     </div>
                                  </div>
                               </div>
@@ -737,11 +685,9 @@
                                  <div class="col-lg-5 col-md-5">
                                     <div class="tp-progress-content tp-bg-grey-3 d-flex justify-content-center h-100 align-items-center">
                                        <div>
-                                          <h2 class="fs-80 mb-15"><span data-purecounter-duration="1" data-purecounter-end="265"  class="purecounter">0</span>K</h2>
-                                          <h4 class="mb-30 text-anim">Customers are served by our
-                                             consulting agency</h4>
-                                          <p class="mb-0">Finance consulting involves providing expert advice
-                                             to businesses, individuals, or organizations</p>
+                                          <h2 class="fs-80 mb-15"><span data-purecounter-duration="1" data-purecounter-end="15000" class="purecounter">0</span>+</h2>
+                                          <h4 class="mb-30 text-anim">School leaders in our global network</h4>
+                                          <p class="mb-0">IPN Foundation is a premier hub for school leaders, integrating Indian Principals' Network (IPN India) and IPN Global.</p>
                                        </div>
                                     </div>
                                  </div>
@@ -751,26 +697,26 @@
                         <div class="col-lg-5">
                            <div class="tp-progress-bar-wrap">
                               <div class="tp-progress-wrapper fix mb-30">
-                                 <p class="tp-progress-title tp-text-grey-2 mb-5">Human resources</p>
+                                 <p class="tp-progress-title tp-text-grey-2 mb-5">Countries</p>
                                  <div class="tp-progress-inner">
-                                    <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar"  data-width="80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                                       <span class="tp-progress-counter tp-text-theme-primary fw-500"><span data-purecounter-duration="1" data-purecounter-end="80"  class="purecounter">0</span>%</span>
+                                    <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar"  data-width="100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                       <span class="tp-progress-counter tp-text-theme-primary fw-500"><span data-purecounter-duration="1" data-purecounter-end="55" class="purecounter">0</span>+</span>
                                     </div>
                                  </div>
                               </div>
                               <div class="tp-progress-wrapper fix mb-30">
-                                 <p class="tp-progress-title tp-text-grey-2 mb-5">Investment consulting</p>
+                                 <p class="tp-progress-title tp-text-grey-2 mb-5">World Cities</p>
                                  <div class="tp-progress-inner">
-                                    <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar"  data-width="60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                                       <span class="tp-progress-counter tp-text-theme-primary fw-500"><span data-purecounter-duration="1" data-purecounter-end="60"  class="purecounter">0</span>%</span>
+                                    <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar"  data-width="100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                       <span class="tp-progress-counter tp-text-theme-primary fw-500"><span data-purecounter-duration="1" data-purecounter-end="600" class="purecounter">0</span>+</span>
                                     </div>
                                  </div>
                               </div>
                               <div class="tp-progress-wrapper fix">
-                                 <p class="tp-progress-title tp-text-grey-2 mb-5">New technologies</p>
+                                 <p class="tp-progress-title tp-text-grey-2 mb-5">School Leaders</p>
                                  <div class="tp-progress-inner">
-                                    <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar"  data-width="90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-                                       <span class="tp-progress-counter tp-text-theme-primary fw-500"><span data-purecounter-duration="1" data-purecounter-end="90"  class="purecounter">0</span>%</span>
+                                    <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar"  data-width="100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                                       <span class="tp-progress-counter tp-text-theme-primary fw-500"><span data-purecounter-duration="1" data-purecounter-end="15000" class="purecounter">0</span>+</span>
                                     </div>
                                  </div>
                               </div>
@@ -794,15 +740,12 @@
                                  </svg>
                                  Our industries
                               </span>
-                              <h2 class="mb-35 tp-text-common-white text-anim">The top choices for all your business <span class="tp-text-theme-secondary text-italic fw-400 tp-ff-heading">needs</span> </h2>
+                              <h2 class="mb-35 tp-text-common-white text-anim">Empowering school leaders and educators <span class="tp-text-theme-secondary text-italic fw-400 tp-ff-heading">worldwide</span> </h2>
                               <div class="tp-benifits-list mb-45">
                                  <ul>
-                                    <li>Ability to grow operations, production, and services without
-                                       compromising quality</li>
-                                    <li>Clear and effective interactions with customers, stakeholders<br>
-                                       and partners.</li>
-                                    <li>Unique selling proposition (USP) that differentiates the<br>
-                                       business in the market.</li>
+                                    <li>Global knowledge exchange and best practices</li>
+                                    <li>Leadership and professional development</li>
+                                    <li>Collaborative partnerships for systemic change</li>
                                  </ul>
                               </div>
                               <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-secondary ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
@@ -945,10 +888,12 @@
                      <div class="row justify-content-end">
                         <div class="col-lg-6">
                            <div class="tp-team-content pt-115 pb-140">
-                              <h2 class="fw-700 tp-team-count mb-5"><span data-purecounter-duration="1" data-purecounter-end="260"  class="purecounter">0</span>+</h2>
-                              <h6 class="fs-18 ls-m-1 tp-text-grey-2 mb-30">Expert business consultant from the worldwide</h6>
-                              <p class="tp-text-theme-primary mb-70">Our team is dedicated to crafting strategies that align with vision, consulting services
-                                 that address challenges, & driving business development for expansion.</p>
+                              <h2 class="fw-700 tp-team-count mb-5"><span data-purecounter-duration="1" data-purecounter-end="10"  class="purecounter">0</span>K+</h2>
+                              <h6 class="fs-18 ls-m-1 tp-text-grey-2 mb-30">School leaders and educators in the IPN Foundation network</h6>
+                              <p class="tp-text-theme-primary mb-70">Led by Founder & Chairman Gaurav Yadava, our advisory board includes distinguished educators and thought leaders from across India and the world.</p>
+                              <div class="tp-team-collab mb-40">
+                                 <strong>The Indian Principal's Network (IPN Foundation)</strong> is proud to collaborate with <strong>Amrita Vishwa Vidyapeetham</strong>, a leading institution in education and research, as a key partner in empowering school leaders and fostering educational excellence.
+                              </div>
                               <a href="contact.php" class="tp-btn-xl d-inline-block lh-0 tp-round-24 fs-16 tp-bg-theme-primary ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                  <span class="d-flex align-items-center justify-content-center">
                                     <span class="btn-text">Meet with our expert</span>
@@ -961,7 +906,7 @@
                         <div class="col-lg-6 d-lg-flex justify-content-lg-end">
                            <div class="tp-team-thumb p-relative">
                               <img class="tp-team-shape p-absolute rotate-infinite" src="assets/img/testimonial/shape-2.png" alt="">
-                              <img class="p-relative z-index-1"  data-parallax='{"x": 30, "smoothness": 30}' src="assets/img/team/team.png" alt="">
+                              <img class="p-relative z-index-1"  data-parallax='{"x": 30, "smoothness": 30}' src="assets/img/home_bg/amrita.png" alt="">
                            </div>
                         </div>
                      </div>
@@ -990,11 +935,10 @@
                                              <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M1.7 10.2C1.2325 10.2 0.832431 10.0334 0.4998 9.7002C0.1666 9.36759 0 8.9675 0 8.5C0 8.0325 0.1666 7.63215 0.4998 7.29895C0.832431 6.96635 1.2325 6.8 1.7 6.8C2.1675 6.8 2.56757 6.96635 2.9002 7.29895C3.2334 7.63215 3.4 8.0325 3.4 8.5C3.4 8.9675 3.2334 9.36759 2.9002 9.7002C2.56757 10.0334 2.1675 10.2 1.7 10.2ZM3.1025 15.045L1.9125 13.855L5.61 10.1575L6.8 11.3475L3.1025 15.045ZM5.6525 6.8L1.955 3.1025L3.145 1.9125L6.8425 5.61L5.6525 6.8ZM8.5 17C8.0325 17 7.63241 16.8337 7.2998 16.5011C6.9666 16.1679 6.8 15.7675 6.8 15.3C6.8 14.8325 6.9666 14.4321 7.2998 14.099C7.63241 13.7663 8.0325 13.6 8.5 13.6C8.9675 13.6 9.36785 13.7663 9.70105 14.099C10.0337 14.4321 10.2 14.8325 10.2 15.3C10.2 15.7675 10.0337 16.1679 9.70105 16.5011C9.36785 16.8337 8.9675 17 8.5 17ZM8.5 3.4C8.0325 3.4 7.63241 3.2334 7.2998 2.9002C6.9666 2.56757 6.8 2.1675 6.8 1.7C6.8 1.2325 6.9666 0.83215 7.2998 0.49895C7.63241 0.166319 8.0325 0 8.5 0C8.9675 0 9.36785 0.166319 9.70105 0.49895C10.0337 0.83215 10.2 1.2325 10.2 1.7C10.2 2.1675 10.0337 2.56757 9.70105 2.9002C9.36785 3.2334 8.9675 3.4 8.5 3.4ZM11.3475 6.8425L10.1575 5.61L13.8975 1.9125L15.0875 3.1025L11.3475 6.8425ZM13.8975 15.045L10.2 11.3475L11.39 10.1575L15.0875 13.855L13.8975 15.045ZM15.3 10.2C14.8325 10.2 14.4321 10.0334 14.099 9.7002C13.7663 9.36759 13.6 8.9675 13.6 8.5C13.6 8.0325 13.7663 7.63215 14.099 7.29895C14.4321 6.96635 14.8325 6.8 15.3 6.8C15.7675 6.8 16.1679 6.96635 16.5011 7.29895C16.8337 7.63215 17 8.0325 17 8.5C17 8.9675 16.8337 9.36759 16.5011 9.7002C16.1679 10.0334 15.7675 10.2 15.3 10.2Z" fill="currentColor" />
                                              </svg>
-                                             Our faq’s
+                                             Our faq's
                                           </span>
                                           <h2 class="mb-25 tp-text-common-white fs-xl-40  text-anim"> Frequently asked <span class="tp-text-theme-secondary text-italic fw-400 tp-ff-heading">question</span> </h2>
-                                          <p class="mb-30 tp-text-grey-3">At budgeto, we empower success through tailored strategic
-                                             solutions. From innovative consulting to business</p>
+                                          <p class="mb-30 tp-text-grey-3">IPN Foundation is a premier hub for school leaders, integrating Indian Principals' Network (IPN India) and IPN Global. Our community includes 15,000+ school leaders from 55+ countries and 600+ world cities, fostering collaboration, exchange, and knowledge sharing in education.</p>
                                           <a href="faq.php" class="tp-btn-xl tp-btn-border d-inline-block lh-0 tp-round-36 fs-16 border-full-1 ls-0 tp-btn-switch-animation tp-text-common-white hover-text-white fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text">Get a quote</span>
@@ -1014,75 +958,65 @@
                                           <div class="accordion-item mb-20">
                                              <h2 class="accordion-header" id="order_one">
                                                 <button class="accordion-button tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_one" aria-expanded="true" aria-controls="order__collapse_one">
-                                                   How do you measure success in your business?
+                                                   What is IPN Foundation?
                                                    <span class="accordion-btn"></span>
                                                 </button>
                                              </h2>
                                              <div id="order__collapse_one" class="accordion-collapse collapse show" aria-labelledby="order_one" data-bs-parent="#general_faqaccordion">
                                                 <div class="accordion-body tp-faq-details-para">
-                                                   <p>Business consulting involves offering professional advice, strategies
-                                                      and solutions to help organizations achieve their goals and
-                                                      overcome challenges.</p>
+                                                   <p>IPN Foundation is a global community and knowledge network for school leaders, integrating Indian Principals' Network (IPN India) and IPN Global. It brings together 15,000+ school leaders from 55+ countries and 600+ world cities to foster collaboration, exchange, and best practice sharing in education.</p>
                                                 </div>
                                              </div>
                                           </div>
                                           <div class="accordion-item mb-20">
                                              <h2 class="accordion-header" id="order_two">
                                                 <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_two" aria-expanded="false" aria-controls="order__collapse_two">
-                                                   How are you mitigating financial risks in your business?
+                                                   How does IPN Foundation support school leaders?
                                                    <span class="accordion-btn"></span>
                                                 </button>
                                              </h2>
                                              <div id="order__collapse_two" class="accordion-collapse collapse" aria-labelledby="order_two" data-bs-parent="#general_faqaccordion">
                                                 <div class="accordion-body tp-faq-details-para">
-                                                   <p>Business consulting involves offering professional advice, strategies
-                                                      and solutions to help organizations achieve their goals and
-                                                      overcome challenges.</p>
+                                                   <p>IPN Foundation empowers school leaders through strategic knowledge sharing, leadership development, and innovative educational programs. It facilitates collaboration, professional growth, and the exchange of best practices among school leaders worldwide.</p>
                                                 </div>
                                              </div>
                                           </div>
                                           <div class="accordion-item mb-20">
                                              <h2 class="accordion-header" id="order_three">
                                                 <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_three" aria-expanded="false" aria-controls="order__collapse_three">
-                                                   Are there legacy systems holding your business back?
+                                                   What is the difference between IPN India and IPN Global?
                                                    <span class="accordion-btn"></span>
                                                 </button>
                                              </h2>
                                              <div id="order__collapse_three" class="accordion-collapse collapse" aria-labelledby="order_three" data-bs-parent="#general_faqaccordion">
                                                 <div class="accordion-body tp-faq-details-para">
-                                                   <p>Business consulting involves offering professional advice, strategies
-                                                      and solutions to help organizations achieve their goals and
-                                                      overcome challenges.</p>
+                                                   <p>IPN India focuses on connecting and empowering school leaders within India, while IPN Global extends the network to school leaders across 55+ countries and 600+ world cities, promoting international collaboration and knowledge exchange.</p>
                                                 </div>
                                              </div>
                                           </div>
                                           <div class="accordion-item mb-20">
                                              <h2 class="accordion-header" id="order_four">
                                                 <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_four" aria-expanded="false" aria-controls="order__collapse_four">
-                                                   How do manage team dynamics and resolve conflicts?
+                                                   How can I join the IPN Foundation network?
                                                    <span class="accordion-btn"></span>
                                                 </button>
                                              </h2>
                                              <div id="order__collapse_four" class="accordion-collapse collapse" aria-labelledby="order_four" data-bs-parent="#general_faqaccordion">
                                                 <div class="accordion-body tp-faq-details-para">
-                                                   <p>Business consulting involves offering professional advice, strategies
-                                                      and solutions to help organizations achieve their goals and
-                                                      overcome challenges.</p>
+                                                   <p>You can join the IPN Foundation network by visiting our website and filling out the membership or contact form. Our team will guide you through the process and connect you with our global community of school leaders.</p>
                                                 </div>
                                              </div>
                                           </div>
                                           <div class="accordion-item">
                                              <h2 class="accordion-header" id="order_five">
                                                 <button class="accordion-button collapsed tp-faq-btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#order__collapse_five" aria-expanded="false" aria-controls="order__collapse_five">
-                                                   Are your current operations scalable for future growth?
+                                                   What are the benefits of being part of IPN Foundation?
                                                    <span class="accordion-btn"></span>
                                                 </button>
                                              </h2>
                                              <div id="order__collapse_five" class="accordion-collapse collapse" aria-labelledby="order_five" data-bs-parent="#general_faqaccordion">
                                                 <div class="accordion-body tp-faq-details-para">
-                                                   <p>Business consulting involves offering professional advice, strategies
-                                                      and solutions to help organizations achieve their goals and
-                                                      overcome challenges.</p>
+                                                   <p>Members of IPN Foundation gain access to a global network of school leaders, exclusive events, leadership development programs, and opportunities for collaboration and knowledge sharing with peers from around the world.</p>
                                                 </div>
                                              </div>
                                           </div>
@@ -1109,7 +1043,7 @@
                                  </svg>
                                  Our articles and insights
                               </span>
-                              <h2 class="mb-25 fs-sm-40  text-anim">Fresh insights and updates. Your guide to a <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">better work life</span></h2>
+                              <h2 class="mb-25 fs-sm-40  text-anim">Latest news and insights from the <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">IPN Foundation</span></h2>
                            </div>
                         </div>
                      </div>
@@ -1262,13 +1196,13 @@
                <!-- tp-cta-area-start -->
                <div class="tp-cta-area anim-zoomin-wrap fix pt-145 pb-120 p-relative">
                   <div class="tp-gsap-image-position anim-zoomin fix">
-                     <img class="tp-gsap-image-cover" src="assets/img/cta/bg.jpg" alt="">
+                     <img class="tp-gsap-image-cover" src="assets/img/home_bg/banner.png" alt="">
                   </div>
                   <div class="container">
                      <div class="row align-items-center">
                         <div class="col-lg-6">
                            <div class="tp-cta-title">
-                              <h2 class="mb-20 fs-sm-40 tp-text-common-white text-anim">Let’s join hands and make it happen with <span class="tp-text-theme-secondary text-italic fw-400 tp-ff-heading">the team!</span></h2>
+                              <h2 class="mb-20 fs-sm-40 tp-text-common-white text-anim">Let's join hands and make it happen with <span class="tp-text-theme-secondary text-italic fw-400 tp-ff-heading">the team!</span></h2>
                            </div>
                         </div>
                         <div class="col-lg-6">
