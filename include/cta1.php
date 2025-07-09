@@ -1,6 +1,6 @@
 <div class="tp-cta-area anim-zoomin-wrap p-relative pt-135 pb-120">
             <div class="tp-gsap-image-position anim-zoomin fix">
-               <img class="tp-gsap-image-cover" src="assets/img/cta/bg-6.jpg" alt="">
+               <img class="tp-gsap-image-cover" src="assets/img/home_bg/banner3.png" alt="">
             </div>
             <div class="container">
                <div class="row">

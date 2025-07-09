@@ -58,7 +58,7 @@
          <div class="tp-hero-gsap-team-spacing">
             <div class="tp-breadcrumb-area anim-zoomin-wrap p-relative pt-200">
                <div class="tp-gsap-image-position anim-zoomin fix">
-                  <img class="tp-gsap-image-cover" src="assets/img/breadcrumb/bg-9.jpg" alt="">
+                  <img class="tp-gsap-image-cover" src="assets/img/home_bg/banner2.png" alt="">
                </div>
                <div class="container">
                   <div class="row">
@@ -86,30 +86,8 @@
                <div class="row align-items-end">
                   <div class="col-lg-12">
                      <div class="tp-project-5-title-wrap text-center mb-55">
-                        <span class="fw-500 fs-16 tp-text-grey-1 mb-10 d-inline-block">Explore our projects</span>
-                        <h2 class="mb-20 fs-xl-40 fs-sm-36 text-anim">Highlighted examples <span class="text-italic fw-400 tp-ff-heading">of our work</span> </h2>
-                     </div>
-                     <div class="tp-project-2-tab tp-project-5-tab text-center mb-65">
-                        <ul role="tablist">
-                           <li class="nav-tab-item" role="presentation">   
-                              <a href="#cases" class="active" data-bs-toggle="tab">All cases <span>31</span></a>
-                           </li>
-                           <li class="nav-tab-item" role="presentation">
-                              <a href="#finance"  data-bs-toggle="tab">Finance <span>8</span></a>
-                           </li>
-                           <li class="nav-tab-item" role="presentation">
-                              <a href="#marketing" data-bs-toggle="tab">Marketing <span>5</span></a>
-                           </li>
-                           <li class="nav-tab-item" role="presentation">
-                              <a href="#startup" data-bs-toggle="tab">Startup <span>7</span></a>
-                           </li>
-                           <li class="nav-tab-item" role="presentation">
-                              <a href="#it" data-bs-toggle="tab">IT Solutions <span>5</span></a>
-                           </li>
-                           <li class="nav-tab-item" role="presentation">
-                              <a href="#banking" data-bs-toggle="tab">Banking <span>6</span></a>
-                           </li>
-                        </ul>
+                        <span class="fw-500 fs-16 tp-text-grey-1 mb-10 d-inline-block">One Vision, Many Pathways:</span>
+                        <h2 class="mb-20 fs-xl-40 fs-sm-36 text-anim">Discover the World of  <span class="text-italic fw-400 tp-ff-heading">IPN Brands</span> </h2>
                      </div>
                   </div>
                </div>
@@ -124,13 +102,12 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb.jpg" alt="IPN Forum">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Investment reporting</a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">IPN FORUM</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">India's largest knowledge network of school leaders, empowering over 15,000 principals and 500,000+ teachers across 55+ countries.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -143,32 +120,12 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-2.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-2.jpg" alt="IPN Academy">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
-                                                <span class="d-flex align-items-center justify-content-center">
-                                                   <span class="btn-text"> Learn more</span>
-                                                   <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                                   <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                                </span> 
-                                             </a>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                                    <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
-                                       <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-3.jpg" alt="">
-                                       </div>
-                                       <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Partnership System </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">IPN Academy</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">Professional development platform for educators, offering specialized training and certification programs.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -181,13 +138,12 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-4.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-3.jpg" alt="Magic of Skills">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">Magic of Skills</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">Skill development platform focusing on practical education and career readiness.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -200,13 +156,12 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-4.jpg" alt="Campus Coach HUB">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black">Business Development </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">Campus Coach HUB</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">Educational consulting and campus development services for institutions.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -219,32 +174,12 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-5.jpg" alt="Eduace QUEST">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Integrated Innovations </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                             <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
-                                                <span class="d-flex align-items-center justify-content-center">
-                                                   <span class="btn-text"> Learn more</span>
-                                                   <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                                   <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                                                </span> 
-                                             </a>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
-                                    <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
-                                       <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="">
-                                       </div>
-                                       <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Differentiated Performance </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">Eduace QUEST</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">South Asia’s LARGEST STEAM QUIZ for School Students. Where students from 1000+ cities across India compete.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -257,13 +192,12 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-6.jpg" alt="AI Olympiad">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Transformed Its Pricing </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">AI Olympiad</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">AI Olympiad is an extension of IPN Platforms, leading the way in AI education.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
@@ -276,13 +210,48 @@
                                  <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
                                     <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
                                        <div class="tp-project-2-thumb tp-round-4">
-                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-7.jpg" alt="IPN Summit">
                                        </div>
                                        <div class="tp-project-2-content p-absolute">
-                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="project-details.php" class="underline-black"> Private trust management </a></h4>
-                                          <p class="tp-text-grey-1 mb-15">This year is significant because it provides
-                                             insight into the history and experience </p>
-                                          <a href="project-details.php" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">IPN Summit</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">India Nepal School Leaders' Summit 2025 where educational leaders from both nations come together to foster collaboration, share best practices, and build stronger educational partnerships between India and Nepal.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <span class="d-flex align-items-center justify-content-center">
+                                                <span class="btn-text"> Learn more</span>
+                                                <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                                                <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                                             </span> 
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                    <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
+                                       <div class="tp-project-2-thumb tp-round-4">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-8.jpg" alt="IPN Conclave">
+                                       </div>
+                                       <div class="tp-project-2-content p-absolute">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">IPN Conclave</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">Teachers' Conclave 2025: Join us at Teachers' Conclave 2025, where educators, administrators, and thought leaders come together to explore the future of education and its pivotal role in fostering sustainability.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
+                                             <span class="d-flex align-items-center justify-content-center">
+                                                <span class="btn-text"> Learn more</span>
+                                                <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                                                <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                                             </span> 
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="col-xl-4 col-lg-6 col-md-6 mb-30">
+                                    <div class="tp-project-2-wrap tp-project-5-wrap p-relative fix">
+                                       <div class="tp-project-2-thumb tp-round-4">
+                                          <img class="w-100 tp-round-4" src="assets/img/project/two/thumb-9.jpg" alt="YUVA">
+                                       </div>
+                                       <div class="tp-project-2-content p-absolute">
+                                          <h4 class="tp-text-theme-primary fw-500 fs-24 mb-10"><a href="#" class="underline-black">YUVA</a></h4>
+                                          <p class="tp-text-grey-1 mb-15">Young United Voice For Action: Reimagining Education. YUVA is a catalytic platform where students from grades 9 to 12 engage in high-order discourse, articulate visionary ideas, and contribute novel perspectives to the reimagination of learning spaces.</p>
+                                          <a href="#" class="d-inline-block lh-0 fs-16 ls-0 tp-btn-switch-animation tp-text-theme-primary hover-text-black fw-500">
                                              <span class="d-flex align-items-center justify-content-center">
                                                 <span class="btn-text"> Learn more</span>
                                                 <span class="btn-icon"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>

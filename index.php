@@ -258,8 +258,8 @@
                                                 <path d="M11.022 11.9088C10.4883 11.2221 10.5203 10.5034 10.8938 9.91278C11.4134 9.09439 12.4487 8.55364 13.4379 8.36862V13.1222C12.3633 12.7984 11.4312 12.4354 11.022 11.9088ZM17.9923 18.9716C18.3659 18.3809 18.3943 17.6623 17.8606 16.9756C17.4551 16.4491 16.5228 16.086 15.4447 15.7623V20.5159C16.4338 20.3309 17.4693 19.79 17.9923 18.9718V18.9716ZM4.22966 24.6539C-1.40989 19.0143 -1.40989 9.86998 4.22966 4.23044C9.8692 -1.4091 19.0135 -1.4091 24.6531 4.23044C30.2961 9.86998 30.2961 19.0143 24.6531 24.6539C19.0135 30.2969 9.8692 30.2969 4.22966 24.6539ZM9.43866 13.1328C10.2891 14.2287 11.819 14.7553 13.4379 15.2071V20.4375C12.3526 20.1493 11.2817 19.4234 10.4491 18.0963C10.1538 17.6266 9.5382 17.4879 9.0685 17.7831C8.60244 18.0748 8.4601 18.694 8.75545 19.1636C10.0292 21.1916 11.7336 22.2022 13.4379 22.5011V23.9492C13.4379 24.5042 13.8863 24.9526 14.4413 24.9526C14.9964 24.9526 15.4447 24.5042 15.4447 23.9492V22.5437C19.0029 22.0847 21.771 18.7544 19.4441 15.7514C18.5972 14.6555 17.0672 14.1289 15.4447 13.677V8.4467C16.53 8.73489 17.6009 9.46078 18.4335 10.7879C18.7289 11.2576 19.3479 11.3963 19.8141 11.1011C20.2838 10.8094 20.4225 10.1902 20.1308 9.72061C18.857 7.69257 17.1492 6.68199 15.4448 6.38313V4.93851C15.4448 4.38345 14.9965 3.93509 14.4414 3.93509C13.8864 3.93509 13.438 4.38345 13.438 4.93851V6.34045C9.87635 6.80651 7.11514 10.1333 9.43866 13.1328ZM54.0179 57.9895H51.3208V15.5986H56.3519L47.3464 0L38.3409 15.5986H43.372V57.9895H38.6433V26.1163H30.6945V57.9897H25.9659V36.6376H18.0172V57.9897H13.2885V47.1553H5.33977V57.9897H2.64269C2.08764 57.9897 1.63576 58.4415 1.63576 58.9966C1.63576 59.5516 2.08764 60 2.64269 60H54.0179C54.5729 60 55.0248 59.5516 55.0248 58.9966C55.0248 58.4415 54.5729 57.9897 54.0179 57.9897V57.9895Z" fill="#1F3130" />
                                              </svg>
                                           </span>
-                                          <h2 class="fs-70"><span data-purecounter-duration="1" data-purecounter-end="168"  class="purecounter">0</span>+</h2>
-                                          <p class="fw-500 fs-18 ls-m-2 tp-text-grey-2">Growth advice for your<br> consulting business</p>
+                                          <h2 class="fs-70"><span data-purecounter-duration="1" data-purecounter-end="45"  class="purecounter">0</span>+</h2>
+                                          <p class="fw-500 fs-18 ls-m-2 tp-text-grey-2">We've hosted IPN Summits <br>and Conferences across India</p>
                                        </div>
                                     </div>
                                  </div>
@@ -803,78 +803,44 @@
                <!-- tp-success-area-start -->
                <div class="tp-success-area pt-135 pb-140">
                   <div class="container">
-                     <div class="row">
-                        <div class="col-lg-12">
-                           <div class="tp-success-section-title-wrap text-center mb-50">
-                              <span class="tp-section-subtitle fw-500 tp-text-grey-1 d-flex align-items-center justify-content-center gap-2 mb-10">
-                                 <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1.7 10.2C1.2325 10.2 0.832431 10.0334 0.4998 9.7002C0.1666 9.36759 0 8.9675 0 8.5C0 8.0325 0.1666 7.63215 0.4998 7.29895C0.832431 6.96635 1.2325 6.8 1.7 6.8C2.1675 6.8 2.56757 6.96635 2.9002 7.29895C3.2334 7.63215 3.4 8.0325 3.4 8.5C3.4 8.9675 3.2334 9.36759 2.9002 9.7002C2.56757 10.0334 2.1675 10.2 1.7 10.2ZM3.1025 15.045L1.9125 13.855L5.61 10.1575L6.8 11.3475L3.1025 15.045ZM5.6525 6.8L1.955 3.1025L3.145 1.9125L6.8425 5.61L5.6525 6.8ZM8.5 17C8.0325 17 7.63241 16.8337 7.2998 16.5011C6.9666 16.1679 6.8 15.7675 6.8 15.3C6.8 14.8325 6.9666 14.4321 7.2998 14.099C7.63241 13.7663 8.0325 13.6 8.5 13.6C8.9675 13.6 9.36785 13.7663 9.70105 14.099C10.0337 14.4321 10.2 14.8325 10.2 15.3C10.2 15.7675 10.0337 16.1679 9.70105 16.5011C9.36785 16.8337 8.9675 17 8.5 17ZM8.5 3.4C8.0325 3.4 7.63241 3.2334 7.2998 2.9002C6.9666 2.56757 6.8 2.1675 6.8 1.7C6.8 1.2325 6.9666 0.83215 7.2998 0.49895C7.63241 0.166319 8.0325 0 8.5 0C8.9675 0 9.36785 0.166319 9.70105 0.49895C10.0337 0.83215 10.2 1.2325 10.2 1.7C10.2 2.1675 10.0337 2.56757 9.70105 2.9002C9.36785 3.2334 8.9675 3.4 8.5 3.4ZM11.3475 6.8425L10.1575 5.61L13.8975 1.9125L15.0875 3.1025L11.3475 6.8425ZM13.8975 15.045L10.2 11.3475L11.39 10.1575L15.0875 13.855L13.8975 15.045ZM15.3 10.2C14.8325 10.2 14.4321 10.0334 14.099 9.7002C13.7663 9.36759 13.6 8.9675 13.6 8.5C13.6 8.0325 13.7663 7.63215 14.099 7.29895C14.4321 6.96635 14.8325 6.8 15.3 6.8C15.7675 6.8 16.1679 6.96635 16.5011 7.29895C16.8337 7.63215 17 8.0325 17 8.5C17 8.9675 16.8337 9.36759 16.5011 9.7002C16.1679 10.0334 15.7675 10.2 15.3 10.2Z" fill="#1F3130" />
-                                 </svg>
-                                 Here step to your success
-                              </span>
-                              <h2 class="mb-25 fs-sm-40 text-anim">Empowering business <span class="tp-text-grey-1 text-italic fw-400 tp-ff-heading">achieve success.</span> </h2>
+                     <div class="row justify-content-center mb-60">
+                        <div class="col-lg-10 text-center">
+                           <span class="tp-section-subtitle fw-500 tp-text-theme-secondary d-flex align-items-center justify-content-center gap-2 mb-10">
+                              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="12" fill="#E6F0F3"/><path d="M12 6V18" stroke="#1F3130" stroke-width="2" stroke-linecap="round"/><path d="M6 12H18" stroke="#1F3130" stroke-width="2" stroke-linecap="round"/></svg>
+                              Empowering Educators, Building Futures
+                           </span>
+                           <h2 class="mb-25 fs-sm-40 text-anim">IPN Foundation's Global Ecosystem for <span class="tp-text-theme-primary text-italic fw-400 tp-ff-heading">Teacher Growth</span></h2>
+                        </div>
+                     </div>
+                     <div class="row gy-4">
+                        <div class="col-md-4">
+                           <div class="tp-success-item tp-bg-grey-3 tp-round-4 h-100 p-4 text-center wow fadeInUp" data-wow-delay=".2s" data-wow-duration=".9s">
+                              <div class="mb-30">
+                                 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="32" height="32" rx="8" fill="#1F3130"/><path d="M24 16V32" stroke="#fff" stroke-width="2" stroke-linecap="round"/><path d="M16 24H32" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg>
+                              </div>
+                              <h4 class="mb-15 fs-22 tp-text-theme-primary">IPN Academy</h4>
+                              <h5 class="mb-10 fs-16 fw-500">Empowerment through Skill-Building</h5>
+                              <p class="tp-text-grey-2">Delivering certified workshops and CPD programs designed to upskill teachers with the latest in pedagogy, technology, and classroom strategies.</p>
                            </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                           <div class="tp-success-item tp-bg-grey-3 tp-round-4 mb-70 wow fadeInUp" data-wow-delay=".3s" data-wow-duration=".9s">
-                              <div class="d-flex align-items-center mb-70">
-                                 <span class="d-inline-block mr-25">
-                                    <svg width="42" height="50" viewBox="0 0 42 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                       <path d="M26 21C26 18.242 23.758 16 21 16C18.242 16 16 18.242 16 21C16 23.758 18.242 26 21 26C23.758 26 26 23.758 26 21Z" fill="#1F3130" />
-                                       <path d="M21 28C16.122 28 12 30.29 12 33C12 41.128 15.03 47.444 16.292 48.708C17.116 49.53 18.83 50 21 50C23.17 50 24.884 49.53 25.708 48.708C26.97 47.444 30 41.128 30 33C30 30.29 25.8781 28 21 28Z" fill="#1F3130" />
-                                       <path d="M21 0C9.42002 0 0 9.42002 0 21C0 27.702 3.23398 34.044 8.654 37.97C9.09599 38.29 9.72598 38.198 10.05 37.746C10.376 37.2979 10.274 36.674 9.82598 36.35C4.92598 32.8 2 27.062 2 21C2 10.524 10.524 2 21 2C31.476 2 40 10.524 40 21C40 27.062 37.074 32.8 32.174 36.35C31.726 36.674 31.624 37.298 31.95 37.746C32.144 38.018 32.452 38.16 32.76 38.16C32.964 38.16 33.1699 38.0979 33.346 37.9699C38.766 34.0439 42 27.702 42 20.9999C42 9.42002 32.58 0 21 0Z" fill="#1F3130" />
-                                       <path d="M21 8C13.832 8 8 13.832 8 21C8 23.838 8.9 26.524 10.604 28.766C10.94 29.2061 11.566 29.29 12.006 28.958C12.446 28.624 12.5319 27.994 12.1979 27.554C10.76 25.664 9.9999 23.396 9.9999 21C9.9999 14.936 14.9359 10 20.9999 10C27.0639 10 31.9999 14.936 31.9999 21C31.9999 23.396 31.2399 25.664 29.8019 27.554C29.4679 27.994 29.5538 28.624 29.9938 28.958C30.1759 29.094 30.3879 29.16 30.5998 29.16C30.8998 29.16 31.1998 29.0239 31.3958 28.7659C33.0998 26.5239 33.9998 23.8379 33.9998 20.9999C34 13.832 28.168 8 21 8Z" fill="#1F3130" />
-                                    </svg>
-                                 </span>
-                                 <h4 class="mb-0 fs-md-23">Commercial planning
-                                    for business</h4>
+                        <div class="col-md-4">
+                           <div class="tp-success-item tp-bg-grey-3 tp-round-4 h-100 p-4 text-center wow fadeInUp" data-wow-delay=".4s" data-wow-duration=".9s">
+                              <div class="mb-30">
+                                 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="32" height="32" rx="8" fill="#1F3130"/><path d="M24 16L32 32H16L24 16Z" fill="#fff"/></svg>
                               </div>
-                              <p class="tp-text-grey-2 mb-30">The process of collecting data from various
-                                 sources to gain insights, opportunities, and
-                                 make informed decisions</p>
-                              <div class="tp-success-btn text-center">
-                                 <span class="fw-500 fs-26 tp-bg-grey-3 rounded-circle p-relative tp-text-theme-primary d-inline-block">01</span>
-                              </div>
+                              <h4 class="mb-15 fs-22 tp-text-theme-primary">IPN Conclave</h4>
+                              <h5 class="mb-10 fs-16 fw-500">Inspiration through Community Engagement</h5>
+                              <p class="tp-text-grey-2">A premier leadership event uniting educators, innovators, and change-makers to share ideas, drive change, and recognize educational excellence.</p>
                            </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                           <div class="tp-success-item tp-bg-grey-3 tp-round-4 mb-70 wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".9s">
-                              <div class="d-flex align-items-center mb-70">
-                                 <span class="d-inline-block mr-25">
-                                    <svg width="40" height="50" viewBox="0 0 40 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                       <path d="M27.5 15H38.5L25 1.5V12.5C25 14 26 15 27.5 15ZM27.5 20C23.25 20 20 16.75 20 12.5V0H7.5C3.25 0 0 3.25 0 7.5V42.5C0 46.75 3.25 50 7.5 50H31.75C31.5 49.25 31.25 48.25 31.25 47.5V42.5C31.25 41.25 31.75 39.75 32.5 38.75C31.75 37.75 31.25 36.25 31.25 35C31.25 31.5 34 28.75 37.5 28.75C38.25 28.75 39.25 29 40 29.25V20H27.5ZM12.5 15H15C16.5 15 17.5 16 17.5 17.5C17.5 19 16.5 20 15 20H12.5C11 20 10 19 10 17.5C10 16 11 15 12.5 15ZM22.5 40H12.5C11 40 10 39 10 37.5C10 36 11 35 12.5 35H22.5C24 35 25 36 25 37.5C25 39 24 40 22.5 40ZM25 30H12.5C11 30 10 29 10 27.5C10 26 11 25 12.5 25H25C26.5 25 27.5 26 27.5 27.5C27.5 29 26.5 30 25 30ZM37.5 40C36 40 35 41 35 42.5V47.5C35 49 36 50 37.5 50C39 50 40 49 40 47.5V42.5C40 41 39 40 37.5 40ZM37.5 32.5C36 32.5 35 33.5 35 35C35 36.5 36 37.5 37.5 37.5C39 37.5 40 36.5 40 35C40 33.5 39 32.5 37.5 32.5Z" fill="#1F3130" />
-                                    </svg>
-                                 </span>
-                                 <h4 class="mb-0 fs-md-23">Information gather and security</h4>
+                        <div class="col-md-4">
+                           <div class="tp-success-item tp-bg-grey-3 tp-round-4 h-100 p-4 text-center wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".9s">
+                              <div class="mb-30">
+                                 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="32" height="32" rx="8" fill="#1F3130"/><circle cx="24" cy="24" r="8" fill="#fff"/><circle cx="24" cy="24" r="4" fill="#1F3130"/></svg>
                               </div>
-                              <p class="tp-text-grey-2 mb-30">The process of collecting data from various
-                                 sources to gain insights, opportunities, and
-                                 make informed decisions</p>
-                              <div class="tp-success-btn text-center">
-                                 <span class="fw-500 fs-26 tp-bg-grey-3 rounded-circle p-relative tp-text-theme-primary d-inline-block">02</span>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6">
-                           <div class="tp-success-item tp-bg-grey-3 tp-round-4 mb-70 wow fadeInUp" data-wow-delay=".7s" data-wow-duration=".9s">
-                              <div class="d-flex align-items-center mb-70">
-                                 <span class="d-inline-block mr-25">
-                                    <svg width="39" height="50" viewBox="0 0 39 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                       <path d="M19.3006 30.6027C22.4083 30.6027 24.9276 28.0834 24.9276 24.9756C24.9276 21.8679 22.4083 19.3486 19.3006 19.3486C16.1929 19.3486 13.6736 21.8679 13.6736 24.9756C13.6736 28.0834 16.1929 30.6027 19.3006 30.6027Z" fill="#1F3130" />
-                                       <path d="M34.2414 18.293H34.2399C32.4204 18.293 30.9437 19.7697 30.9437 21.5906V24.828C30.9437 31.2074 25.7704 36.3822 19.3896 36.3822C13.0082 36.3822 7.83403 31.2073 7.83403 24.828V21.5906C7.83403 19.7682 6.35581 18.293 4.53647 18.293C2.71692 18.293 1.24023 19.7697 1.24023 21.5906V24.7679C1.24023 30.6851 4.07217 35.9407 8.45398 39.2534C8.70797 39.4454 8.8572 39.7453 8.8572 40.0637V48.9834C8.8572 49.5455 9.31296 50.0014 9.87519 50.0014H28.7165C29.2787 50.0014 29.7344 49.5455 29.7344 48.9834V40.1544C29.7344 39.8339 29.8854 39.5324 30.1422 39.3406C34.6335 35.987 37.5376 30.5948 37.5376 24.5719V21.5905C37.5375 19.7697 36.0609 18.293 34.2414 18.293Z" fill="#1F3130" />
-                                       <path d="M14.0383 9.50412C14.2129 9.71637 14.3019 9.98624 14.2878 10.2608L14.0967 13.9491C14.0552 14.7504 14.8571 15.3255 15.6026 15.0291L18.9823 13.6858C19.2434 13.582 19.5345 13.582 19.7956 13.6858L23.1753 15.0291C23.9209 15.3255 24.7227 14.7504 24.6812 13.9491L24.4901 10.2608C24.4759 9.98624 24.5648 9.71637 24.7396 9.50412L27.0231 6.73052C27.5284 6.11677 27.2363 5.18613 26.471 4.97103L22.9233 3.97422C22.6683 3.90256 22.4477 3.74141 22.302 3.5203L20.3079 0.49587C19.8729 -0.163988 18.9048 -0.163988 18.4697 0.49587L16.4758 3.5204C16.33 3.74151 16.1094 3.90266 15.8544 3.97432L12.3068 4.97113C11.5413 5.18613 11.2494 6.11677 11.7547 6.73062L14.0383 9.50412Z" fill="#1F3130" />
-                                       <path d="M9.24516 13.1612C9.8415 12.565 9.8415 11.5981 9.24516 11.0018L3.19935 4.95596C2.60312 4.35973 1.63624 4.35973 1.0399 4.95596C0.443568 5.5522 0.443568 6.51908 1.0399 7.11542L7.08571 13.1612C7.68205 13.7576 8.64883 13.7575 9.24516 13.1612Z" fill="#1F3130" />
-                                       <path d="M38.1156 4.95596C37.5194 4.35973 36.5525 4.35973 35.9562 4.95596L29.9104 11.0018C29.3141 11.598 29.3141 12.5649 29.9104 13.1612C30.5067 13.7576 31.4735 13.7576 32.0698 13.1612L38.1156 7.11542C38.712 6.51918 38.712 5.5523 38.1156 4.95596Z" fill="#1F3130" />
-                                    </svg>
-                                 </span>
-                                 <h4 class="mb-0 fs-md-23">Finished project maximum impact</h4>
-                              </div>
-                              <p class="tp-text-grey-2 mb-30">Completing a project is a milestone, but
-                                 ensuring it delivers maximum impact
-                                 requires strategic steps</p>
-                              <div class="tp-success-btn text-center">
-                                 <span class="fw-500 fs-26 tp-bg-grey-3 rounded-circle p-relative tp-text-theme-primary d-inline-block">03</span>
-                              </div>
+                              <h4 class="mb-15 fs-22 tp-text-theme-primary">IPN Global Educators Network</h4>
+                              <h5 class="mb-10 fs-16 fw-500">Unity through Global Collaboration</h5>
+                              <p class="tp-text-grey-2">A worldwide platform connecting educators to exchange knowledge, collaborate on initiatives, and foster global best practices in education.</p>
                            </div>
                         </div>
                      </div>

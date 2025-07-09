@@ -57,7 +57,7 @@
                <div class="tp-hero-gsap-team-spacing">
                   <div class="tp-breadcrumb-area anim-zoomin-wrap p-relative pt-200">
                      <div class="tp-gsap-image-position anim-zoomin fix">
-                        <img class="tp-gsap-image-cover" src="assets/img/breadcrumb/bg-6.jpg" alt="">
+                        <img class="tp-gsap-image-cover" src="assets/img/home_bg/banner.png" alt="">
                      </div>
                      <div class="container">
                         <div class="row">
